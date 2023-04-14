@@ -1,2 +1,1221 @@
 # 1640
 大数据架构师进阶-零基础到项目实战|2021|百战|完结
+
+### 微:NoBug1024 
+
+
+课程介绍：
+
+互联网大厂敲门砖 课程全新升级不加价
+
+核心技术深度解析 全栈开发一手掌握
+
+遵循企业用人标准 就业不局限
+〖课程目录〗:
+
+- ├──01-linux操作系统  
+- |   ├──章节1：Linux操作系统概述与安装  
+- |   |   ├──10：其他设置_ev.mp4  26.00M
+- |   |   ├──11：拍摄快照_ev.mp4  31.47M
+- |   |   ├──1：操作系统概述_ev.mp4  12.90M
+- |   |   ├──2：VMWare概述与安装_ev.mp4  21.03M
+- |   |   ├──3：新建虚拟机_ev.mp4  18.94M
+- |   |   ├──4：为虚拟机安装Linux系统_ev.mp4  22.54M
+- |   |   ├──5：网络环境配置_ev.mp4  14.36M
+- |   |   ├──6：Xshell和Xftp安装_ev.mp4  16.31M
+- |   |   ├──7：yum无法使用解决方案-配置本地yum源_ev.mp4  32.53M
+- |   |   ├──8：开机设置和yum安装vim以及ntp_ev.mp4  17.87M
+- |   |   ├──9：关闭防火墙_ev.mp4  21.35M
+- |   |   ├──软件.rar  5.23G
+- |   |   ├──文档.rar  91.96M
+- |   |   └──新建文本文档.txt  0.19kb
+- |   ├──章节2：Linux常用命令  
+- |   |   ├──12：命令入门_ev.mp4  18.23M
+- |   |   ├──13：获取命令的帮助_ev.mp4  56.11M
+- |   |   ├──14：环境变量PATH和基本命令echolspwdcd_ev.mp4  18.60M
+- |   |   ├──15：基本命令mkdirrm_ev.mp4  27.24M
+- |   |   ├──16：基本命令cpmvln_ev.mp4  46.67M
+- |   |   ├──17：进程状态查看命令ps_ev.mp4  32.73M
+- |   |   ├──18：test命令_ev.mp4  9.09M
+- |   |   ├──19：文件系统命令-虚拟目录_ev.mp4  35.45M
+- |   |   ├──20：文件系统命令dfmountumount_ev.mp4  19.14M
+- |   |   ├──21：系统操作命令dustattouch_ev.mp4  23.94M
+- |   |   ├──22：文本操作命令cathead_ev.mp4  26.65M
+- |   |   ├──23：文本操作命令tail_ev.mp4  15.51M
+- |   |   ├──24：管道和xargs_ev.mp4  25.24M
+- |   |   ├──25：数据重定向_ev.mp4  19.52M
+- |   |   ├──26：文本操作命令cut_ev.mp4  18.57M
+- |   |   ├──27：文本操作命令sort_ev.mp4  15.65M
+- |   |   ├──28：文本操作命令sed_ev.mp4  49.32M
+- |   |   ├──29：文本操作命令awk基本使用_ev.mp4  26.81M
+- |   |   ├──30：实战awk实现报表统计_ev.mp4  31.88M
+- |   |   ├──31：文本操作命令wc选修_ev.mp4  5.96M
+- |   |   ├──32：文本操作命令vivim三种模式概述_ev.mp4  18.14M
+- |   |   ├──33：文本操作命令vivim使用技巧_ev.mp4  39.71M
+- |   |   ├──34：文件打包压缩备份解压命令tar_ev.mp4  46.44M
+- |   |   ├──参考手册&资料.rar  85.93M
+- |   |   ├──文档.rar  1.44M
+- |   |   └──新建文本文档.txt  0.23kb
+- |   ├──章节3：Linux用户权限和软件安装与管理  
+- |   |   ├──35：用户用户组其他人概述_ev.mp4  42.08M
+- |   |   ├──36：用户身份与用户组记录的文件_ev.mp4  14.30M
+- |   |   ├──37：用户管理_ev.mp4  43.40M
+- |   |   ├──38：用户组管理_ev.mp4  16.77M
+- |   |   ├──39：与用户账号、用户组有关的系统文件详讲(选修)_ev.mp4  42.34M
+- |   |   ├──40：Linux文件属性与权限概述_ev.mp4  27.53M
+- |   |   ├──41：修改文件所有者和所属用户组_ev.mp4  25.02M
+- |   |   ├──42：改变权限_ev.mp4  40.04M
+- |   |   ├──43：目录与文件的权限意义_ev.mp4  29.19M
+- |   |   ├──44：三种安装方式区别和源码安装_ev.mp4  76.78M
+- |   |   ├──45：rpm安装概述_ev.mp4  20.56M
+- |   |   ├──46：rpm安装jdk和rpm常用的组合选项_ev.mp4  42.39M
+- |   |   ├──47：rmp安装配置mysql5.7_ev.mp4  64.86M
+- |   |   ├──48：yum安装原理分析_ev.mp4  23.33M
+- |   |   ├──49：yum具体安装卸载更新_ev.mp4  40.26M
+- |   |   ├──50：CentOS使用其它源(扩展)_ev.mp4  20.17M
+- |   |   ├──软件.rar  310.18M
+- |   |   ├──文档.rar  1.06M
+- |   |   └──新建文本文档.txt  0.37kb
+- |   └──章节4：ShellScript脚本编程  
+- |   |   ├──51：grep之正则表达式上_ev.mp4  28.21M
+- |   |   ├──52：grep之正则表达式下_ev.mp4  32.99M
+- |   |   ├──53：shell脚本编程概述_ev.mp4  52.06M
+- |   |   ├──54：awk脚本编程实现消费统计报表_ev.mp4  11.43M
+- |   |   ├──55：函数的定义与调用_ev.mp4  15.78M
+- |   |   ├──56：环境变量-本地变量-局部变量_ev.mp4  19.90M
+- |   |   ├──57：位置参数_ev.mp4  14.00M
+- |   |   ├──58：特殊变量的使用_ev.mp4  19.96M
+- |   |   ├──59：数组_ev.mp4  8.51M
+- |   |   ├──60：横跨父子进程的变量_ev.mp4  23.80M
+- |   |   ├──61：单双引号和反引号_ev.mp4  25.24M
+- |   |   ├──62：逻辑表达式_ev.mp4  13.79M
+- |   |   ├──63：算术表达式_ev.mp4  16.26M
+- |   |   ├──64：条件表达式_ev.mp4  14.18M
+- |   |   ├──65：分支结构if_ev.mp4  11.03M
+- |   |   ├──66：分支结构case_ev.mp4  16.66M
+- |   |   ├──67：循环结构while_ev.mp4  16.14M
+- |   |   ├──68：循环结构for_ev.mp4  25.25M
+- |   |   ├──69：课堂练习-查找指定目录下最大的文件_ev.mp4  25.29M
+- |   |   ├──70：bash扩展_ev.mp4  12.76M
+- |   |   ├──71：shellscript脚本检查_ev.mp4  12.99M
+- |   |   ├──文档.rar  858.90kb
+- |   |   └──新建文本文档.txt  0.18kb
+- ├──02-大型网站高并发处理  
+- |   ├──章节1：Nginx的高并发处理  
+- |   |   ├──10：10Nginx参数详解_ev.mp4  53.57M
+- |   |   ├──11：虚拟主机配置实战_ev.mp4  34.29M
+- |   |   ├──12：日志设置实战案例_ev.mp4  38.13M
+- |   |   ├──13：Location配置解析_ev.mp4  53.52M
+- |   |   ├──14：Location配置解析和实战_ev.mp4  66.01M
+- |   |   ├──15：反向代理概述_ev.mp4  17.25M
+- |   |   ├──16：反向代理之负载均衡服务器实战_ev.mp4  36.22M
+- |   |   ├──17：Nginx调优_ev.mp4  20.99M
+- |   |   ├──18：session共享需求描述_ev.mp4  17.20M
+- |   |   ├──19：session共享实操演示_ev.mp4  63.50M
+- |   |   ├──1：node1到node4四台虚拟机批量修改本地yum源[选修]_ev.mp4  44.56M
+- |   |   ├──20：动静分离实战_ev.mp4  53.75M
+- |   |   ├──21：动静分离案例中session共享的bug解决演示_ev.mp4  9.45M
+- |   |   ├──2：为什么需要Nginx_ev.mp4  57.57M
+- |   |   ├──3：Nginx介绍_ev.mp4  12.39M
+- |   |   ├──4：Nginx和apache的优缺点_ev.mp4  18.25M
+- |   |   ├──5：Tengine介绍_ev.mp4  19.68M
+- |   |   ├──6：Nginx源码安装之安装前准备工作_ev.mp4  26.52M
+- |   |   ├──7：Nginx安装_ev.mp4  57.74M
+- |   |   ├──8：Nginx方便启动的配置_ev.mp4  31.44M
+- |   |   ├──9：Nginx的工作模型_ev.mp4  29.31M
+- |   |   ├──软件.rar  155.27M
+- |   |   ├──文档.rar  1.79M
+- |   |   └──新建文本文档.txt  0.16kb
+- |   └──章节2：Nginx和Keepalived高可用  
+- |   |   ├──22：为什么要学习keepalived_ev.mp4  13.99M
+- |   |   ├──23：keepalived概述和基本原理_ev.mp4  25.63M
+- |   |   ├──24：VRRP原理和选举机制_ev.mp4  17.37M
+- |   |   ├──25：搭建配置前的准备工作.mp4  10.22M
+- |   |   ├──25：搭建配置前的准备工作_ev.mp4  10.16M
+- |   |   ├──26：nginx配置文件修改和check_nginx脚本编写.mp4  24.65M
+- |   |   ├──26：nginx配置文件修改和check_nginx脚本编写_ev.mp4  28.58M
+- |   |   ├──27：check_nginx脚本测试.mp4  34.44M
+- |   |   ├──27：check_nginx脚本测试_ev.mp4  33.99M
+- |   |   ├──28：keeepalived安装和配置_ev.mp4  51.93M
+- |   |   ├──29：测试_ev.mp4  30.51M
+- |   |   └──文档.zip  582.57kb
+- ├──03-zookeeper分布式协调服务框架  
+- |   ├──章节1：ZooKeeper初探  
+- |   |   ├──01资料.rar  190.57M
+- |   |   ├──03笔记.rar  1.25M
+- |   |   ├──04代码.rar  3.04M
+- |   |   ├──1：为什么使用zookeeper_ev.mp4  16.01M
+- |   |   ├──2：ZooKeeper概述_ev.mp4  14.02M
+- |   |   ├──3：分布式编程容易出现的问题_ev.mp4  25.13M
+- |   |   ├──4：拜占庭将军问题到信息安全_ev.mp4  12.21M
+- |   |   ├──5：Paxos小岛故事_ev.mp4  33.50M
+- |   |   ├──6：Zookeeper集群攘其外_ev.mp4  22.71M
+- |   |   └──7：Zookeeper集群安其内_ev.mp4  25.37M
+- |   ├──章节2：ZooKeeper分布式集群实战  
+- |   |   ├──10：JDK安装与环境变量配置_ev.mp4  31.63M
+- |   |   ├──11：Zookeeper配置安装以及参数解析_ev.mp4  54.72M
+- |   |   ├──8：安装流程分析以及虚拟机准备_ev.mp4  27.93M
+- |   |   └──9：四台虚拟机彼此免密登录_ev.mp4  41.09M
+- |   ├──章节3：ZooKeeper底层原理剖析与命令实战  
+- |   |   ├──12：znode数据结构_ev.mp4  20.53M
+- |   |   ├──13：ZK客户端命令行操作_ev.mp4  36.94M
+- |   |   ├──14：ZooKeepersession会话_ev.mp4  26.25M
+- |   |   ├──15：事件监听原理刨析_ev.mp4  14.98M
+- |   |   ├──16：广播模式刨析_ev.mp4  23.21M
+- |   |   ├──17：Zookeeper集群的特点和知识点小结_ev.mp4  17.81M
+- |   |   └──18：ZK常见的应用场景_ev.mp4  23.48M
+- |   ├──章节4：ZooKeeperAPI实战  
+- |   |   ├──19：项目搭建_zk连接创建和关闭_ev.mp4  35.80M
+- |   |   ├──20：创建节点_ev.mp4  36.05M
+- |   |   ├──21：删除节点_ev.mp4  22.26M
+- |   |   ├──22：获取数据和验证连接转移_ev.mp4  34.28M
+- |   |   ├──23：注册watcher监听和监听事件被触发_ev.mp4  48.97M
+- |   |   ├──24：判断节点是否存在和修改节点_ev.mp4  41.20M
+- |   |   ├──25：判断节点是否存在Watcher的使用_ev.mp4  27.97M
+- |   |   └──26：子节点查询_ev.mp4  23.28M
+- |   └──章节5：分布式RMI协调实战  
+- |   |   ├──27：Java原生RMI原理分析_ev.mp4  29.66M
+- |   |   ├──28：Java原生RMI代码实现_ev.mp4  42.00M
+- |   |   ├──29：Java原生RMI的局限性_ev.mp4  10.62M
+- |   |   ├──30：Zookeeper实现RMI高可用原理分析_ev.mp4  50.81M
+- |   |   ├──31：Zookeeper实现RMI高可用代码剖析_ev.mp4  72.56M
+- |   |   └──新建文本文档.txt  0.22kb
+- ├──04-Hadoop分布式文件系统HDFS  
+- |   ├──章节1：Hadoop分布式文件系统HDFS  
+- |   |   ├──10：DataNode概述_ev.mp4  25.52M
+- |   |   ├──11：数据块副本放置策略_ev.mp4  12.13M
+- |   |   ├──12：HDFS的权限(了解)_ev.mp4  10.67M
+- |   |   ├──13：hadoop的安全模式_ev.mp4  20.49M
+- |   |   ├──14：写流程剖析一_ev.mp4  21.49M
+- |   |   ├──15：写流程剖析二_ev.mp4  50.93M
+- |   |   ├──16：读流程剖析_ev.mp4  22.26M
+- |   |   ├──17：如何判断HDFSClient和DataNode距离的远近？_ev.mp4  5.19M
+- |   |   ├──18：完全分布式安装_ev.mp4  89.33M
+- |   |   ├──19：完全分布式搭建后测试_ev.mp4  12.20M
+- |   |   ├──1：分治思想引入案例_ev.mp4  26.49M
+- |   |   ├──20：文件内容分析_ev.mp4  26.63M
+- |   |   ├──21：HadoopFederation联邦（了解）_ev.mp4  20.40M
+- |   |   ├──22：NameNode高可用手动切换版_ev.mp4  17.55M
+- |   |   ├──23：NameNode高可用自动切换版实现原理_ev.mp4  17.86M
+- |   |   ├──24：NameNode高可用搭建_ev.mp4  72.34M
+- |   |   ├──25：NameNode高可用集群的启动与关闭_ev.mp4  63.75M
+- |   |   ├──26：NameNOde高可用集群启动shell脚本编写_ev.mp4  14.95M
+- |   |   ├──27：NameNOde高可用集群关闭shell脚本编写_ev.mp4  10.88M
+- |   |   ├──28：Windows下搭建配置hadoop开发环境_ev.mp4  27.08M
+- |   |   ├──29：HDFSAPI案例搭建项目_ev.mp4  27.09M
+- |   |   ├──2：单机处理1TB大文件查找重复行_ev.mp4  31.95M
+- |   |   ├──30：API案例listStatusmkdirdelete_ev.mp4  40.15M
+- |   |   ├──31：API案例文件上传_ev.mp4  32.90M
+- |   |   ├──32：API案例文件下载_ev.mp4  20.96M
+- |   |   ├──33：获取指定文件的block块的位置信息_ev.mp4  16.55M
+- |   |   ├──34：API案例指定位置进行读取_ev.mp4  19.12M
+- |   |   ├──35：解决WARNutil.NativeCodeLoader_ev.mp4  8.96M
+- |   |   ├──36：Hadoop3新特性_ev.mp4  28.86M
+- |   |   ├──3：单机处理1TB大文件进行排序_ev.mp4  23.46M
+- |   |   ├──4：集群分布式处理大数据_ev.mp4  24.12M
+- |   |   ├──5：集群分布式处理大数据优劣的辩证_ev.mp4  13.02M
+- |   |   ├──6：hadoop发展历史_ev.mp4  20.19M
+- |   |   ├──7：核心组件与关联项目_ev.mp4  25.76M
+- |   |   ├──8：HDFS架构_ev.mp4  26.43M
+- |   |   └──9：NameNode和SecondaryNameNode概述_ev.mp4  42.44M
+- |   └──新建文本文档.txt  0.31kb
+- ├──05-Hadoop分布式计算框架MapReduce  
+- |   ├──章节1：MapReduce原理和搭建  
+- |   |   ├──1.txt  0.15kb
+- |   |   ├──10：jar包准备和项目创建以及配置_ev.mp4  20.26M
+- |   |   ├──11：动手写wordcount上_ev.mp4  57.51M
+- |   |   ├──12：动手写wordcount下_ev.mp4  50.62M
+- |   |   ├──13：打jar包上传到集群中运行_ev.mp4  25.41M
+- |   |   ├──1：MapReduce简介_ev.mp4  12.89M
+- |   |   ├──2：MapReduce工作流程概述_ev.mp4  44.35M
+- |   |   ├──3：MapReduce工作流程详解_ev.mp4  25.23M
+- |   |   ├──4：通过WordCount案例分析MR工作流程_ev.mp4  32.37M
+- |   |   ├──5：资源管理与调度架构分析_ev.mp4  29.12M
+- |   |   ├──6：MR执行流程_ev.mp4  31.74M
+- |   |   ├──7：ResourceManager高可用搭建_ev.mp4  49.66M
+- |   |   ├──8：NameNode高可用和ResourceManager高可用集群启动和关闭脚本编写_ev.mp4  25.95M
+- |   |   ├──9：运行自带的wordcount_ev.mp4  36.04M
+- |   |   ├──文档.rar  2.23M
+- |   |   └──源码.rar  33.65kb
+- |   ├──章节2：MapReduce源码分析  
+- |   |   ├──14：第一章复习_ev.mp4  22.45M
+- |   |   ├──15：作业执行前期提交到HDFS上的资源分析_ev.mp4  53.67M
+- |   |   ├──16：作业完成进度日志源码分析_ev.mp4  31.98M
+- |   |   ├──17：提交作业相关资源到HDFS上存放的临时路径_ev.mp4  74.52M
+- |   |   ├──18：切片计算源码剖析上_ev.mp4  40.41M
+- |   |   ├──19：切片计算源码剖析中_ev.mp4  46.87M
+- |   |   ├──20：切片计算源码剖析下_ev.mp4  41.94M
+- |   |   ├──21：MapTask从哪里阅读源码_ev.mp4  26.61M
+- |   |   ├──22：runNewMapper方法中相关对象分析_ev.mp4  84.68M
+- |   |   ├──23：MapTaskinitialize方法源码剖析_ev.mp4  29.41M
+- |   |   ├──24：MapTaskrum()方法源码剖析_ev.mp4  38.70M
+- |   |   ├──25：分区相关源码剖析.mp4  77.47M
+- |   |   ├──25：分区相关源码剖析_ev.mp4  83.99M
+- |   |   ├──26：分区总结和圆形缓冲区引入_ev.mp4  26.73M
+- |   |   ├──27：圆形缓冲区源码剖析.mp4  99.23M
+- |   |   ├──27：圆形缓冲区源码剖析_ev.mp4  92.73M
+- |   |   ├──28：Map端源码总结.mp4  48.33M
+- |   |   ├──28：Map端源码总结_ev.mp4  42.90M
+- |   |   ├──29：Reduce端源码分析上.mp4  93.83M
+- |   |   ├──29：Reduce端源码分析上_ev.mp4  88.65M
+- |   |   ├──30：Reduce端源码分析下.mp4  101.24M
+- |   |   ├──30：Reduce端源码分析下_ev.mp4  107.73M
+- |   |   ├──31：Reduce端源码总结_ev.mp4  13.52M
+- |   |   ├──软件.rar  63.86M
+- |   |   ├──文档.rar  6.25M
+- |   |   └──源码.rar  20.27M
+- |   ├──章节3：MapReduce开发实战  
+- |   |   ├──32：天气案例需求分析_ev.mp4  30.50M
+- |   |   ├──33：Weather类开发上_ev.mp4  56.58M
+- |   |   ├──34：Weather类开发下_ev.mp4  40.19M
+- |   |   ├──35：WeatherMapper类开发_ev.mp4  38.85M
+- |   |   ├──36：WeatherPartitioner类开发_ev.mp4  13.57M
+- |   |   ├──37：WeatherSortComparator类开发_ev.mp4  29.35M
+- |   |   ├──38：温度案例程序入口类MainClass开发_ev.mp4  53.47M
+- |   |   ├──39：WeatherGroupingComparator类开发_ev.mp4  18.41M
+- |   |   ├──40：WeatherReducer代码实现_ev.mp4  26.14M
+- |   |   ├──41：天气案例代码测试与bug修改_ev.mp4  45.37M
+- |   |   ├──42：二次排序扩展_ev.mp4  68.84M
+- |   |   ├──43：reduce中遍历values是Key是变化的原理扩展_ev.mp4  36.68M
+- |   |   ├──44：好友推荐需求概述_ev.mp4  12.04M
+- |   |   ├──45：好友推荐需求分析和开发思路介绍_ev.mp4  26.41M
+- |   |   ├──46：好友推荐MR1-FOFMain开发.mp4  51.89M
+- |   |   ├──46：好友推荐MR1-FOFMain开发_ev.mp4  47.29M
+- |   |   ├──47：好友推荐MR1-FOFMaper开发.mp4  44.80M
+- |   |   ├──47：好友推荐MR1-FOFMaper开发_ev.mp4  41.87M
+- |   |   ├──48：好友推荐MR1-FOFReducer类开发和运行测试.mp4  29.06M
+- |   |   ├──48：好友推荐MR1-FOFReducer类开发和运行测试_ev.mp4  26.95M
+- |   |   ├──49：好友推荐MR2-FOFMain2类开发.mp4  45.05M
+- |   |   ├──49：好友推荐MR2-FOFMain2类开发_ev.mp4  36.50M
+- |   |   ├──50：好友推荐MR2-FOFMaper2类开发.mp4  18.63M
+- |   |   ├──50：好友推荐MR2-FOFMaper2类开发_ev.mp4  16.52M
+- |   |   ├──51：好友推荐MR2-FOFReducer2类开发_ev.mp4  65.46M
+- |   |   ├──52：好友推荐MR2测试_ev.mp4  18.54M
+- |   |   ├──文档.rar  1.12M
+- |   |   └──源码.rar  35.43kb
+- |   └──章节4：MapReduce项目实战  
+- |   |   ├──53：pagerank概述和需求分析_ev.mp4  19.36M
+- |   |   ├──54：pagerank算法实现和算法修正_ev.mp4  24.52M
+- |   |   ├──55：pagerank解题思路分析与总结_ev.mp4  27.54M
+- |   |   ├──56：pagerank案例MainClass类开发_ev.mp4  73.51M
+- |   |   ├──57：pagerank案例PRMapper开发_ev.mp4  43.55M
+- |   |   ├──58：pagerank案例PRReducer类开发_ev.mp4  28.23M
+- |   |   ├──59：pagerank案例运行与调试_ev.mp4  48.77M
+- |   |   ├──60：TFIDF项目概述_ev.mp4  20.02M
+- |   |   ├──61：TFIDF项目需求分析_ev.mp4  27.66M
+- |   |   ├──62：TFIDF项目MR1-FirstJob类开发_ev.mp4  56.18M
+- |   |   ├──63：TFIDF项目MR1-FirstMapper类和FirstPartitioner类开发_ev.mp4  60.74M
+- |   |   ├──64：TFIDF项目MR1-FirstReducer类开发和调试_ev.mp4  32.27M
+- |   |   ├──65：TFIDF项目MR2-TwoJob类开发_ev.mp4  40.24M
+- |   |   ├──66：TFIDF项目MR2-TwoMapper类开发_ev.mp4  41.74M
+- |   |   ├──67：TFIDF项目MR2-TwoReducer类开发和调试_ev.mp4  16.97M
+- |   |   ├──68：TFIDF项目MR3-思路分析和LastJob类开发_ev.mp4  70.80M
+- |   |   ├──69：TFIDF项目MR3-LastMapper类setup方法开发_ev.mp4  54.39M
+- |   |   ├──70：TFIDF项目MR3-LastMapper类map方法开发_ev.mp4  52.97M
+- |   |   ├──71：TFIDF项目MR3-LastReducer类开发_ev.mp4  13.94M
+- |   |   ├──72：TFIDF项目MR3运行测试与bug调试_ev.mp4  46.64M
+- |   |   ├──文档.rar  404.83kb
+- |   |   ├──源码.rar  1.24M
+- |   |   └──资料.rar  1.17M
+- ├──06-数据仓库Hive  
+- |   └──06-数据仓库Hive.7z  2.02G
+- ├──07-分布式数据库HBase  
+- |   └──07-分布式数据库HBase.7z  1.72G
+- ├──08-大型电商日志离线分析系统  
+- |   ├──章节10：项目优化、架构设计与项目总结  
+- |   |   ├──64：服务器调优总体概述_ev.mp4  13.57M
+- |   |   ├──65：服务器调优之HDFS调优_ev.mp4  20.25M
+- |   |   ├──66：服务器调优之HBase参数调优_ev.mp4  32.02M
+- |   |   ├──67：服务器调优之MapReduce参数调优_ev.mp4  23.08M
+- |   |   ├──68：代码调优_ev.mp4  28.89M
+- |   |   └──69：总结_ev.mp4  9.40M
+- |   ├──章节1：项目需求分析、系统架构设计  
+- |   |   ├──1：项目需求分析_ev.mp4  42.38M
+- |   |   ├──2：系统架构_ev.mp4  10.65M
+- |   |   └──笔记.rar  3.26M
+- |   ├──章节2：JS和JAVASDK数据源、Nginx本地日志存储  
+- |   |   ├──10：JS知识补充_ev.mp4  25.80M
+- |   |   ├──11：PageView和Launch事件JS代码分析_ev.mp4  50.63M
+- |   |   ├──12：ChargeRequest和EventDuration事件JS代码分析_ev.mp4  18.03M
+- |   |   ├──13：ChargeSuccess和ChargeRefund事件Java代码分析_ev.mp4  35.01M
+- |   |   ├──14：Nginx安装_ev.mp4  33.23M
+- |   |   ├──15：Nginx配置与日志记录测试_ev.mp4  42.36M
+- |   |   ├──3：JSSDK概述_ev.mp4  23.89M
+- |   |   ├──4：JSSDK流程图分析_ev.mp4  11.11M
+- |   |   ├──5：JSSDK数据参数说明以及PC端事件概述_ev.mp4  25.15M
+- |   |   ├──6：JSSDK的Launch和Pageview事件参数分析_ev.mp4  15.87M
+- |   |   ├──7：JSSDK的其他事件参数分析_ev.mp4  13.67M
+- |   |   ├──8：JavaSDK_ev.mp4  11.57M
+- |   |   ├──9：项目搭建-模拟日志生成_ev.mp4  42.25M
+- |   |   ├──代码.rar  41.48M
+- |   |   └──资料.rar  10.45M
+- |   ├──章节3：Flume日志收集  
+- |   |   ├──16：Flume概述_ev.mp4  25.48M
+- |   |   ├──17：Flume安装与单节点模型的配置_ev.mp4  73.79M
+- |   |   ├──18：Flume两节点串联_ev.mp4  49.18M
+- |   |   ├──19：execsource案例_ev.mp4  21.29M
+- |   |   ├──20：SpoolingDirectorySource案例_ev.mp4  46.22M
+- |   |   ├──21：HDFSSink上_ev.mp4  59.67M
+- |   |   ├──22：HDFSSink下_ev.mp4  60.55M
+- |   |   ├──23：Sink其它类型和Channel类型扩展_ev.mp4  36.24M
+- |   |   ├──24：Flume应用在项目中的配置_ev.mp4  73.48M
+- |   |   └──资料.rar  49.98M
+- |   ├──章节4：ETL日志处理  
+- |   |   ├──25：ETL思路分析、IP解析和浏览器信息解析代码讲解_ev.mp4  67.76M
+- |   |   ├──26：ELT代码分析一_ev.mp4  69.34M
+- |   |   ├──27：ETL代码分析二_ev.mp4  66.62M
+- |   |   ├──28：ETL程序运行测试_ev.mp4  45.60M
+- |   |   └──代码.rar  49.69M
+- |   ├──章节5：新增用户指标开发  
+- |   |   ├──29：新增用户思路引导_ev.mp4  14.46M
+- |   |   ├──30：新增用户思路分析_ev.mp4  42.11M
+- |   |   ├──31：MySQL表设计和实体类分析_ev.mp4  36.58M
+- |   |   ├──32：NewUserRunner类代码实现_ev.mp4  69.91M
+- |   |   ├──33：NewUserMapper类代码实现一_ev.mp4  59.93M
+- |   |   ├──34：NewUserMapper类代码实现二_ev.mp4  65.21M
+- |   |   ├──35：NewUserReducer类代码实现_ev.mp4  54.73M
+- |   |   ├──36：NewUserRunner类二次开发代码实现一_ev.mp4  67.67M
+- |   |   ├──37：NewUserRunner类二次开发代码实现二_ev.mp4  32.56M
+- |   |   ├──38：生成测试数据并运行NewUserRunner_ev.mp4  48.39M
+- |   |   ├──39：剖析Reducer处理后的数据如何插入MySQL一_ev.mp4  70.76M
+- |   |   ├──40：剖析Reducer处理后的数据如何插入MySQL二_ev.mp4  51.19M
+- |   |   ├──代码.rar  50.36M
+- |   |   └──资料.rar  2.13kb
+- |   ├──章节6：活跃用户指标开发  
+- |   |   ├──41：什么是活跃用户_ev.mp4  6.59M
+- |   |   ├──42：ActiveUserRunner类开发_ev.mp4  36.25M
+- |   |   ├──43：ActiveUserMapper类开发_ev.mp4  80.25M
+- |   |   ├──44：ActiveUserReducer类开发_ev.mp4  28.42M
+- |   |   ├──45：ActiveUserRunner类二次开发以及程序测试_ev.mp4  78.07M
+- |   |   ├──46：其它模块开发提示_ev.mp4  10.36M
+- |   |   └──代码.rar  50.36M
+- |   ├──章节7：Hive和HBase整合  
+- |   |   ├──47：hive和hbase整合配置以及内部表创建_ev.mp4  46.71M
+- |   |   └──48：hive整合hbase创建外部表_ev.mp4  45.05M
+- |   ├──章节8：Sqoop概述、安装、数据的导入和导出  
+- |   |   ├──49：sqoop介绍和导入导出原理_ev.mp4  12.74M
+- |   |   ├──50：sqoop安装配置以及测试_ev.mp4  31.06M
+- |   |   ├──51：从MySQL中导入数据到HDFS_ev.mp4  60.00M
+- |   |   ├──52：从MySQL中导入数据到Hive中_ev.mp4  51.91M
+- |   |   ├──53：从Hive中导出数句到MySQL中_ev.mp4  61.39M
+- |   |   └──资料.rar  16.82M
+- |   └──章节9：用户浏览深度SQL实现  
+- |   |   ├──54：需求分析_ev.mp4  30.32M
+- |   |   ├──55：用户角度-统计用户在指定日期PV数_ev.mp4  26.98M
+- |   |   ├──56：用户角度-使用casewhen语句升级sql_ev.mp4  39.53M
+- |   |   ├──57：用户角度-将中间查询结果保存到临时表中_ev.mp4  37.00M
+- |   |   ├──58：用户角度-使用行转列技术升级sql_ev.mp4  54.59M
+- |   |   ├──59：日期和平台UDF类代码实现_ev.mp4  37.61M
+- |   |   ├──60：创建UDF函数并升级SQL_ev.mp4  41.85M
+- |   |   ├──61：编写Sqoop脚本将hive中的数据导出到MySQL中_ev.mp4  26.18M
+- |   |   ├──62：会话维度思路讲解_ev.mp4  14.81M
+- |   |   ├──63：Shell脚本分析_ev.mp4  23.91M
+- |   |   └──代码.rar  90.18M
+- ├──09-elasticsearch分布式搜索  
+- |   └──09-elasticsearch分布式搜索.7z  2.66G
+- ├──10-Redis缓存数据库  
+- |   ├──章节1：Redis分布式缓存数据库  
+- |   |   ├──10：Set类型_ev.mp4  30.82M
+- |   |   ├──11：SortedSet类型上_ev.mp4  38.89M
+- |   |   ├──12：SortedSet类型中_ev.mp4  24.62M
+- |   |   ├──13：SortedSet类型下_ev.mp4  31.82M
+- |   |   ├──14：Stream类型上_ev.mp4  27.16M
+- |   |   ├──15：Stream类型下_ev.mp4  34.15M
+- |   |   ├──16：通用命令_ev.mp4  15.53M
+- |   |   ├──17：持久化之RDB_ev.mp4  51.74M
+- |   |   ├──18：持久化之AOF_ev.mp4  51.55M
+- |   |   ├──19：集群原理_ev.mp4  30.49M
+- |   |   ├──1：概述_ev.mp4  37.71M
+- |   |   ├──20：高可用集群搭建_ev.mp4  65.50M
+- |   |   ├──21：高可用集群添加节点_ev.mp4  48.13M
+- |   |   ├──22：高可用集群删除节点和集群总结_ev.mp4  37.55M
+- |   |   ├──2：源码下载与单机版安装_ev.mp4  47.77M
+- |   |   ├──3：单机版配置和基本使用_ev.mp4  43.53M
+- |   |   ├──4：string类型之赋值和取值_ev.mp4  27.16M
+- |   |   ├──5：string类型之长度获取、增减、覆盖等操作_ev.mp4  15.92M
+- |   |   ├──6：BitMap位图基本命令_ev.mp4  52.84M
+- |   |   ├──7：BitMap实战_ev.mp4  26.09M
+- |   |   ├──8：List类型_ev.mp4  35.51M
+- |   |   └──9：Hash类型_ev.mp4  36.32M
+- |   ├──01资料.rar  24.61M
+- |   ├──02笔记.rar  2.35M
+- |   └──1.txt  0.23kb
+- ├──11-CDH集群管理  
+- |   ├──章节1：ClouderaManager简介及CDH简介  
+- |   |   ├──1：大数据集群搭建及管理问题_ev.mp4  31.21M
+- |   |   ├──2：CDHhadoop发行版简介及ClouderaManager平台简介_ev.mp4  40.30M
+- |   |   ├──3：ClouderaManager平台架构原理及模块分析_ev.mp4  36.12M
+- |   |   └──笔记.rar  3.37M
+- |   ├──章节2：ClouderaManager安装及CDH安装  
+- |   |   ├──1.txt  0.10kb
+- |   |   ├──10：ColuderaManager平台搭建ClouderaManager平台安装步骤详解_ev.mp4  47.05M
+- |   |   ├──11：ColuderaManager平台搭建ClouderaManager平台安装实战操作_ev.mp4  89.27M
+- |   |   ├──12：基于ClouderaManager平台搭建CDH_ev.mp4  45.12M
+- |   |   ├──4：ColuderaManager平台搭建节点角色划分及内存分配_ev.mp4  42.14M
+- |   |   ├──5：ColuderaManager平台搭建ip&hostname&防火墙&selinux设置_ev.mp4  34.40M
+- |   |   ├──6：ColuderaManager平台搭建本地yum源配置使用_ev.mp4  41.07M
+- |   |   ├──7：ColuderaManager平台搭建两两节点之间免密登录配置_ev.mp4  40.80M
+- |   |   ├──8：ColuderaManager平台搭建节点时间同步及JDK配置安装_ev.mp4  35.63M
+- |   |   ├──9：ColuderaManager平台搭建MySQL安装及安装第三方依赖_ev.mp4  30.18M
+- |   |   ├──笔记.rar  3.37M
+- |   |   └──资料.rar  6.22G
+- |   ├──章节3：ClouderaManager平台操作使用  
+- |   |   ├──13：ClouderaManager页面状态监控介绍_ev.mp4  21.54M
+- |   |   ├──14：ClouderaManager页面主页面选项操作_ev.mp4  54.93M
+- |   |   ├──15：ClouderaManager页面集群设置操作_ev.mp4  51.73M
+- |   |   ├──16：ClouderaManager页面CMS图表展示及注意问题_ev.mp4  24.14M
+- |   |   ├──17：ClouderaManagerHDFSHA升级操作及测试_ev.mp4  47.20M
+- |   |   └──笔记.rar  3.37M
+- |   └──章节4：hive&amp;hue&amp;impala&amp;oozie使用  
+- |   |   ├──1.txt  0.08kb
+- |   |   ├──18：ClouderaManager之CDH添加Hive服务实操_ev.mp4  26.76M
+- |   |   ├──19：ClouderaManager之CDH添加oozie服务实操_ev.mp4  21.09M
+- |   |   ├──20：ClouderaManager之CDH添加hue服务实操_ev.mp4  10.13M
+- |   |   ├──21：HueUI系统界面介绍_ev.mp4  20.54M
+- |   |   ├──22：HueUI系统用户权限操作及HDFS文件系统操作_ev.mp4  30.59M
+- |   |   ├──23：HueUI系统Hive表库操作及元数据操作_ev.mp4  26.62M
+- |   |   ├──24：HueUI系统配置RDBMS数据库及操作_ev.mp4  28.98M
+- |   |   ├──25：Impala数据分析引擎介绍_ev.mp4  24.47M
+- |   |   ├──26：Impala数据分析引擎架构角色介绍_ev.mp4  33.12M
+- |   |   ├──27：ClouderaManager之CDH添加Impala服务实操&Impala优缺点&Impala与Hive异同比较_ev.mp4  52.13M
+- |   |   ├──28：Impala与Hive查询SQL速度对比及元数据同步测试_ev.mp4  50.18M
+- |   |   ├──29：Impala操作之Impala-Shell命令操作01_ev.mp4  52.34M
+- |   |   ├──30：Impala操作之Impala-Shell命令操作02_ev.mp4  33.79M
+- |   |   ├──31：oozie任务流调度架构原理及web界面展示_ev.mp4  33.75M
+- |   |   ├──32：oozie任务流调度及任务流提交运行_ev.mp4  59.92M
+- |   |   ├──33：oozie任务流依赖关系配置及调度_ev.mp4  29.87M
+- |   |   ├──笔记.rar  3.37M
+- |   |   └──资料.rar  11.35M
+- ├──12-Kylin数据仓库分析引擎  
+- |   ├──章节1：数据仓库理论基础及OLAP分析瓶颈  
+- |   |   ├──1.txt  0.07kb
+- |   |   ├──1：数据分析之OLTP与OLAP操作的区别_ev.mp4  40.89M
+- |   |   ├──2：OLAP数据分析之事实表与维度表_ev.mp4  35.96M
+- |   |   ├──3：OLAP数据分析之星型模型与雪花模型_ev.mp4  37.85M
+- |   |   ├──4：OLAP数据分析特点及分类_ev.mp4  30.98M
+- |   |   ├──5：OLAP数据分析操作类型解释_ev.mp4  24.14M
+- |   |   ├──6：OLAP数据分析瓶颈问题_ev.mp4  34.45M
+- |   |   └──笔记.rar  1.90M
+- |   ├──章节2：Kylin架构原理及实战操作  
+- |   |   ├──1.txt  0.08kb
+- |   |   ├──10：Kylin解压目录介绍及Kylin界面介绍_ev.mp4  20.58M
+- |   |   ├──11：Kylin分布式搭建及Kylin配置解释_ev.mp4  47.85M
+- |   |   ├──12：Kylin构建Cube实操之Hive准备事实表及维度表_ev.mp4  44.45M
+- |   |   ├──13：Kylin构建Cube实操之创建KylinProject及构建KylinModel_ev.mp4  31.78M
+- |   |   ├──14：Kylin构建Cube实操之创建Cube及Cube配置01_ev.mp4  36.57M
+- |   |   ├──15：Kylin构建Cube实操之创建Cube及Cube配置02_ev.mp4  30.13M
+- |   |   ├──16：Kylin构建Cube实操之Kylin构建Cube执行流程及结果查询速度对比_ev.mp4  39.38M
+- |   |   ├──17：Kylin构建Cube实操之Kylin样例Cube导入及模型介绍_ev.mp4  70.45M
+- |   |   ├──18：Kylin构建Cube实操之Kylin样例Cube构建_ev.mp4  37.43M
+- |   |   ├──19：Kylin构建Cube实操之Kylin样例增量构建Cube及速度测试对比_ev.mp4  39.29M
+- |   |   ├──20：Kylin构建Cube实操之Kylin样例Cube合并Segment片段_ev.mp4  38.25M
+- |   |   ├──7：Kylin介绍及Kylin架构原理_ev.mp4  39.03M
+- |   |   ├──8：Kylin搭建安装要求_ev.mp4  20.37M
+- |   |   ├──9：Kylin搭建基础环境准备及Kylin搭建启动_ev.mp4  51.44M
+- |   |   ├──笔记.rar  1.90M
+- |   |   └──资料.rar  399.89M
+- |   └──章节3：Kylin算法及实战操作  
+- |   |   ├──21：Kylin构建Cube之LayeredCubing逐层算法_ev.mp4  29.95M
+- |   |   ├──22：Kylin构建Cube之FastCubing逐块算法及算法的选择_ev.mp4  52.83M
+- |   |   ├──23：Kylin构建Cube之创建Project&Model&Cube实战_ev.mp4  54.53M
+- |   |   ├──24：Kylin构建Cube之KylinSQL注意问题及JDBC代码连接Kylin_ev.mp4  43.80M
+- |   |   ├──25：Kylin构建Cube之KylinSQL传参操作_ev.mp4  24.21M
+- |   |   ├──笔记.rar  1.90M
+- |   |   ├──代码.rar  39.00M
+- |   |   └──资料.rar  203.96kb
+- ├──13-Scala分布式语言  
+- |   ├──章节1：Scala的基本语法  
+- |   |   ├──1：Scala的介绍_ev.mp4  28.75M
+- |   |   ├──2：安装Scala和创建Scala项目_ev.mp4  32.07M
+- |   |   ├──3：Scala中数据类型_ev.mp4  20.99M
+- |   |   ├──4：Scala中Class和Object_ev.mp4  30.73M
+- |   |   ├──5：Scala中的if语句和循环1_ev.mp4  31.37M
+- |   |   ├──6：Scala中的循环2_ev.mp4  45.99M
+- |   |   ├──7：Scala中函数定义和递归函数_ev.mp4  31.99M
+- |   |   ├──8：Scala中基本函数2_ev.mp4  45.33M
+- |   |   ├──9：Scala中的高阶函数和柯里化函数_ev.mp4  47.64M
+- |   |   ├──代码.rar  106.03kb
+- |   |   ├──文档.rar  1.26M
+- |   |   └──资料.rar  1.04G
+- |   ├──章节2：Scala的字符串和集合  
+- |   |   ├──10：Scala中的字符串_ev.mp4  23.60M
+- |   |   ├──11：Scala中的数组_ev.mp4  47.24M
+- |   |   ├──12：Scala中的列表_ev.mp4  53.23M
+- |   |   ├──13：Scala中Set集合_ev.mp4  44.22M
+- |   |   ├──14：Scala中Map集合1_ev.mp4  36.91M
+- |   |   ├──15：Scala中的Map集合2_ev.mp4  53.31M
+- |   |   ├──16：Scala中的元组Tuple_ev.mp4  26.90M
+- |   |   └──17：Scala迭代器模式编程_ev.mp4  34.12M
+- |   ├──章节3：Scala高级特性  
+- |   |   ├──18：Scala的Trait特质1_ev.mp4  34.51M
+- |   |   ├──19：Scala的Trait特质2_ev.mp4  25.51M
+- |   |   ├──20：Scala中的模式匹配_ev.mp4  38.32M
+- |   |   ├──21：Scala中的偏函数_ev.mp4  15.47M
+- |   |   ├──22：Scala中的样例类_ev.mp4  35.09M
+- |   |   ├──23：Scala中隐式参数和隐式值_ev.mp4  45.15M
+- |   |   ├──24：Scala中的隐式转换函数动态添加方法_ev.mp4  21.36M
+- |   |   ├──25：Scala中的隐式类的定义_ev.mp4  26.57M
+- |   |   ├──26：Scala的Actor通信模型_ev.mp4  75.56M
+- |   |   └──27：Scala中创建Maven项目开发WordCount_ev.mp4  52.13M
+- |   └──章节4：Scala的复习总结  
+- |   |   ├──28：Scala的复习总结1_ev.mp4  34.55M
+- |   |   └──29：Scala的复习总结2_ev.mp4  31.03M
+- ├──14-Spark分布式计算框架  
+- |   ├──章节1：Spark分布式计算框架核心基础  
+- |   |   ├──1.txt  0.19kb
+- |   |   ├──笔记.rar  747.98kb
+- |   |   ├──代码.rar  26.03M
+- |   |   └──资料.rar  9.05M
+- |   ├──章节2：Spark集群搭建、任务提交资源申请核心原理  
+- |   |   ├──1.txt  0.11kb
+- |   |   ├──笔记.rar  1000.10kb
+- |   |   ├──代码.rar  0.75kb
+- |   |   └──资料.rar  392.91M
+- |   ├──章节3：Spark算子实战及案例分析操作  
+- |   |   ├──笔记.rar  279.89kb
+- |   |   ├──代码.rar  27.84M
+- |   |   ├──新建文本文档.txt  0.11kb
+- |   |   └──资料.rar  232.99kb
+- |   ├──章节4：Spark分布式计算框架核心源码分析  
+- |   |   ├──1.txt  0.16kb
+- |   |   ├──笔记.rar  585.60kb
+- |   |   ├──代码.rar  17.82M
+- |   |   └──资料.rar  1.08M
+- |   ├──章节5：Spark分布式计算框架核心高阶进阶  
+- |   |   ├──1.txt  0.08kb
+- |   |   ├──100：Spark核心_Spark高级应用之SparkMasterHA提交任务命令及测试_ev.mp4  83.99M
+- |   |   ├──103：Spark核心_Spark高级应用之SparkShuffle文件寻址过程_ev.mp4  48.81M
+- |   |   ├──104：Spark核心_Spark高级应用之Spark内存管理两种机制_ev.mp4  45.78M
+- |   |   ├──105：Spark核心_Spark高级应用之SparkShuffle优化_ev.mp4  35.76M
+- |   |   ├──88：Spark核心_Spark高级应用之Spark广播变量原理_ev.mp4  36.50M
+- |   |   ├──89：Spark核心_Spark高级应用之Spark广播变量代码实战_ev.mp4  37.95M
+- |   |   ├──90：Spark核心_Spark高级应用之Spark累加器原理_ev.mp4  21.85M
+- |   |   ├──91：Spark核心_Spark高级应用之Spark累加器代码实战_ev.mp4  41.05M
+- |   |   ├──92：Spark核心_Spark高级应用之Spark自定义累加器代码实战_ev.mp4  96.75M
+- |   |   ├──93：Spark核心_Spark高级应用之Spark自定义累加器Scala代码实战_ev.mp4  67.08M
+- |   |   ├──94：Spark核心_Spark高级应用之SparkShell使用_ev.mp4  34.70M
+- |   |   ├──95：Spark核心_Spark高级应用之SparkWebUI界面操作01_ev.mp4  29.85M
+- |   |   ├──96：Spark核心_Spark高级应用之SparkWebUI界面操作02_ev.mp4  36.02M
+- |   |   ├──97：Spark核心_Spark高级应用之SparkWebUI界面操作03_ev.mp4  46.86M
+- |   |   ├──98：Spark核心_Spark高级应用之Spark历史日志服务器配置及使用_ev.mp4  70.55M
+- |   |   ├──99：Spark核心_Spark高级应用之SparkMasterHA原理及搭建_ev.mp4  65.22M
+- |   |   ├──笔记.rar  854.27kb
+- |   |   ├──代码.zip  5.35kb
+- |   |   └──资料.rar  841.56kb
+- |   ├──章节6：Spark分布式计算框架之SparkSQL  
+- |   |   ├──1.txt  0.08kb
+- |   |   ├──106：SparkSQL_SparkSQL发展过程及演变历史_ev.mp4  31.59M
+- |   |   ├──107：SparkSQL_SparkSQL底层操作对象及谓词下推_ev.mp4  73.82M
+- |   |   ├──108：SparkSQL_SparkSQL读取Json格式的数据加载DatFrame01_ev.mp4  52.40M
+- |   |   ├──109：SparkSQL_SparkSQL读取Json格式的数据加载DatFrame02_ev.mp4  75.27M
+- |   |   ├──110：SparkSQL_SparkSQL读取Json格式的数据加载DatFrame03_ev.mp4  28.53M
+- |   |   ├──111：SparkSQL_SparkSQL读取Json格式的RDD加载DatFrame_ev.mp4  41.49M
+- |   |   ├──112：SparkSQL_SparkSQL读取普通格式的RDD通过反射方式加载DatFrame_ev.mp4  37.79M
+- |   |   ├──113：SparkSQL_SparkSQL读取普通格式的RDD通过动态创建Schema方式加载DatFrame_ev.mp4  44.99M
+- |   |   ├──114：SparkSQL_SparkSQL读取Parquet格式的数据加载DatFrame_ev.mp4  49.37M
+- |   |   ├──115：SparkSQL_SparkSQL读取csv格式的数据加载DatFrame_ev.mp4  24.19M
+- |   |   ├──116：SparkSQL_SparkSQL读取Tuple类型的Dataset加载DatFrame_ev.mp4  63.61M
+- |   |   ├──117：SparkSQL_SparkSQL读取MySQL表数据加载DatFrame_ev.mp4  95.63M
+- |   |   ├──118：SparkSQL_SparkonHive配置及SparkSQL连接Hive测试_ev.mp4  36.56M
+- |   |   ├──119：SparkSQL_HiveHQL与SparkSQL查询数据速度对比_ev.mp4  54.41M
+- |   |   ├──120：SparkSQL_SparkSQL读取Hive中的数据加载DataFrame01_ev.mp4  50.29M
+- |   |   ├──121：SparkSQL_SparkSQL读取Hive中的数据加载DataFrame02_ev.mp4  80.23M
+- |   |   ├──122：SparkSQL_SparkSQL自定义函数UDF实战应用_ev.mp4  49.30M
+- |   |   ├──123：SparkSQL_SparkSQL自定义聚合函数UDAF实战应用01_ev.mp4  89.28M
+- |   |   ├──124：SparkSQL_SparkSQL自定义聚合函数UDAF实战应用02_ev.mp4  59.28M
+- |   |   ├──125：SparkSQL_SparkSQLOver开窗函数实战使用01_ev.mp4  52.47M
+- |   |   ├──126：SparkSQL_SparkSQLOver开窗函数实战使用02_ev.mp4  68.60M
+- |   |   ├──127：SparkSQL_经典案例分析_找出状态变化的行_ev.mp4  42.61M
+- |   |   ├──128：SparkSQL_经典案例分析_不同场景统计用户访问网站总时长_ev.mp4  83.42M
+- |   |   ├──129：SparkSQL_经典案例分析_读取JsonArray数据进行解析_ev.mp4  64.43M
+- |   |   ├──130：SparkSQL_经典案例分析_读取Json字符串直接获取属性对应的值_ev.mp4  41.36M
+- |   |   ├──131：SparkSQL_经典案例分析_读取嵌套的json格式的数据_ev.mp4  24.56M
+- |   |   ├──132：SparkSQL_经典案例分析_数据表行列变化转换分析01_ev.mp4  66.81M
+- |   |   ├──133：SparkSQL_经典案例分析_数据表行列变化转换分析02_ev.mp4  83.05M
+- |   |   ├──134：SparkSQL_经典案例分析_用户登录网站7日留存数据统计分析_ev.mp4  95.01M
+- |   |   ├──135：SparkSQL_经典案例分析_VpnLog用户在线统计需求分析_ev.mp4  97.54M
+- |   |   ├──136：SparkSQL_经典案例分析_VpnLog用户在线统计SQL实现01_ev.mp4  69.47M
+- |   |   ├──137：SparkSQL_经典案例分析_VpnLog用户在线统计SQL实现02_ev.mp4  72.09M
+- |   |   ├──138：SparkSQL_经典案例分析_VpnLog用户在线统计SQL实现03_ev.mp4  82.92M
+- |   |   ├──笔记.rar  607.84kb
+- |   |   ├──代码.rar  171.43M
+- |   |   └──资料.rar  6.48M
+- |   └──章节7：Spark分布式计算框架之SparkStreaming  
+- |   |   ├──1.txt  0.11kb
+- |   |   ├──139：SparkStreaming_SparkStreaming介绍及各个计算框架对比_ev.mp4  33.75M
+- |   |   ├──140：SparkStreaming_SparkStreaming读取Socket数据原理及流程_ev.mp4  28.50M
+- |   |   ├──141：SparkStreaming_SparkStreaming读取Socket数据注意问题_ev.mp4  38.22M
+- |   |   ├──142：SparkStreaming_SparkStreaming实时热词统计代码实战_ev.mp4  95.69M
+- |   |   ├──143：SparkStreaming_SparkStreamingWebUI操作解释_ev.mp4  29.35M
+- |   |   ├──144：SparkStreaming_SparkStreamingforeachRDD算子注意问题及代码实战_ev.mp4  95.02M
+- |   |   ├──145：SparkStreaming_SparkStreamingtransform算子注意问题及代码实战_ev.mp4  39.45M
+- |   |   ├──146：SparkStreaming_SparkStreamingupdateStateByKey算子实战操作_ev.mp4  59.07M
+- |   |   ├──147：SparkStreaming_SparkStreamingrenduceByKeyAndWindow算子实战操作_ev.mp4  65.53M
+- |   |   ├──148：SparkStreaming_SparkStreamingrenduceByKeyAndWindow优化处理方式原理及实战操作_ev.mp4  42.16M
+- |   |   ├──149：SparkStreaming_SparkStreamingwindow窗口函数实战操作_ev.mp4  21.05M
+- |   |   ├──150：SparkStreaming_SparkStreaming监控目录中的数据保存到磁盘中代码实战_ev.mp4  63.39M
+- |   |   ├──151：SparkStreaming_SparkStreaming其他算子介绍_ev.mp4  15.91M
+- |   |   ├──152：SparkStreaming_DriverHA实现01_ev.mp4  53.34M
+- |   |   ├──153：SparkStreaming_DriverHA实现02_ev.mp4  82.19M
+- |   |   ├──154：Kafka分布式消息系统_Kafka分布式消息系统特点介绍_ev.mp4  18.40M
+- |   |   ├──155：Kafka分布式消息系统_Kafka分布式消息系统架构介绍_ev.mp4  12.84M
+- |   |   ├──156：Kafka分布式消息系统_Kafka分布式消息系统生产者模型及topic存储消息特点_ev.mp4  24.86M
+- |   |   ├──157：Kafka分布式消息系统_Kafka分布式消息系统消费者模型特点_ev.mp4  21.71M
+- |   |   ├──158：Kafka分布式消息系统_Kafka分布式消息系统特点总结_ev.mp4  28.51M
+- |   |   ├──159：Kafka分布式消息系统_Kafka分布式消息系统知识点总结_ev.mp4  39.71M
+- |   |   ├──160：Kafka分布式消息系统_Kafka集群搭建及启动脚本编写_ev.mp4  61.88M
+- |   |   ├──161：Kafka分布式消息系统_Kafka命令之查看topic&生产消费数据&查看组的消费信息_ev.mp4  58.65M
+- |   |   ├──162：Kafka分布式消息系统_Kafka命令之topicleader均衡机制及删除topic命令_ev.mp4  43.25M
+- |   |   ├──163：SparkStreaming_SparkStreaming1.6+Kafka0.8.2Receiver模式整合原理_ev.mp4  50.65M
+- |   |   ├──164：SparkStreaming_SparkStreaming1.6+Kafka0.8.2Direct模式整合原理_ev.mp4  18.17M
+- |   |   ├──165：SparkStreaming_SparkStreaming2.3+Kafka011Direct模式整合及代码实战_ev.mp4  53.94M
+- |   |   ├──166：SparkStreaming_Direct模式代码验证及利用Kafka管理消费者offset代码设置_ev.mp4  101.85M
+- |   |   ├──167：SparkStreaming_Direct模式参数设置与特性解读_ev.mp4  53.16M
+- |   |   ├──168：SparkStreaming_消费kafka数据offset维护方式介绍_ev.mp4  45.17M
+- |   |   ├──169：SparkStreaming_消费kafka数据手动维护消费者offset代码_ev.mp4  57.63M
+- |   |   ├──170：SparkStreaming_消费kafka数据手动维护消费者offset测试_ev.mp4  41.40M
+- |   |   ├──171：SparkStreaming_消费kafka数据参数解释_ev.mp4  32.67M
+- |   |   ├──笔记.rar  659.34kb
+- |   |   ├──代码.rar  27.70M
+- |   |   └──资料.rar  42.48M
+- ├──15-大数据任务流调度系统azkaban  
+- |   └──15-大数据任务流调度系统azkaban.7z  318.46M
+- ├──16-音乐数据中心数仓综合项目  
+- |   ├──章节1：数据仓库建模理论及模型设计  
+- |   |   ├──10：数据仓库建模理论_数据仓库分层案例分析_ev.mp4  34.37M
+- |   |   ├──11：数据仓库建模理论_数据库与数据仓库区别_ev.mp4  20.40M
+- |   |   ├──1：数据仓库建模理论_数据库及数据库三范式设计_ev.mp4  65.77M
+- |   |   ├──2：数据仓库建模理论_ER实体关系模型设计_ev.mp4  41.79M
+- |   |   ├──3：数据仓库建模理论_ER实体关系模型设计案例分析_ev.mp4  21.64M
+- |   |   ├──4：数据仓库建模理论_数据仓库产生原因及数据仓库概念_ev.mp4  81.10M
+- |   |   ├──5：数据仓库建模理论_数据仓库发展过程_ev.mp4  97.10M
+- |   |   ├──6：数据仓库建模理论_维度建模事实表及维度表_ev.mp4  50.84M
+- |   |   ├──7：数据仓库建模理论_维度建模数据分析模型分类_ev.mp4  45.63M
+- |   |   ├──8：数据仓库建模理论_维度建模案例分析_ev.mp4  19.98M
+- |   |   ├──9：数据仓库建模理论_数据仓库分层设计及每层设计思想_ev.mp4  101.37M
+- |   |   ├──笔记.rar  4.55M
+- |   |   ├──代码.rar  209.29M
+- |   |   └──新建文本文档.txt  0.17kb
+- |   ├──章节2：歌曲热度与歌手热度排行  
+- |   |   ├──1.txt  
+- |   |   ├──12：音乐数据中心项目_项目介绍_ev.mp4  60.56M
+- |   |   ├──13：音乐数据中心项目_项目技术架构设计_ev.mp4  80.17M
+- |   |   ├──14：音乐数据中心项目_项目集群配置、项目人数及项目开发周期_ev.mp4  37.75M
+- |   |   ├──15：音乐数据中心项目_项目数据仓库分层设计、主题设计、命名规范_ev.mp4  77.72M
+- |   |   ├──16：音乐数据中心项目_歌曲热度及歌手热度_需求_ev.mp4  35.62M
+- |   |   ├──17：音乐数据中心项目_歌曲热度及歌手热度_需求分析01_ev.mp4  94.34M
+- |   |   ├──18：音乐数据中心项目_歌曲热度及歌手热度_需求分析02_ev.mp4  67.35M
+- |   |   ├──19：音乐数据中心项目_歌曲热度及歌手热度_表模型设计_ev.mp4  85.78M
+- |   |   ├──20：音乐数据中心项目_歌曲热度及歌手热度_数据仓库分层及数据流转处理流程_ev.mp4  28.83M
+- |   |   ├──21：音乐数据中心项目_歌曲热度及歌手热度_项目结构介绍_ev.mp4  39.29M
+- |   |   ├──22：音乐数据中心项目_歌曲热度及歌手热度_客户端歌曲播放日志数据处理01_ev.mp4  107.14M
+- |   |   ├──23：音乐数据中心项目_歌曲热度及歌手热度_客户端歌曲播放日志数据处理02_ev.mp4  77.79M
+- |   |   ├──24：音乐数据中心项目_歌曲热度及歌手热度_客户端歌曲播放日志数据处理03_ev.mp4  95.67M
+- |   |   ├──25：音乐数据中心项目_歌曲热度及歌手热度_Sqoop安装及准备jar包_ev.mp4  31.33M
+- |   |   ├──26：音乐数据中心项目_歌曲热度及歌手热度_将歌库歌曲表通过Sqoop导入ODS层_ev.mp4  76.61M
+- |   |   ├──27：音乐数据中心项目_歌曲热度及歌手热度_SparkSQL使用补充_ev.mp4  24.68M
+- |   |   ├──28：音乐数据中心项目_歌曲热度及歌手热度_ETL获取EDS层歌曲基本信息日全量表01_ev.mp4  93.18M
+- |   |   ├──29：音乐数据中心项目_歌曲热度及歌手热度_ETL获取EDS层歌曲基本信息日全量表02_ev.mp4  81.92M
+- |   |   ├──30：音乐数据中心项目_歌曲热度及歌手热度_ETL获取EDS层歌曲特征日统计表01_ev.mp4  73.16M
+- |   |   ├──31：音乐数据中心项目_歌曲热度及歌手热度_ETL获取EDS层歌曲特征日统计表02_ev.mp4  90.33M
+- |   |   ├──32：音乐数据中心项目_歌曲热度及歌手热度_微信指数公式及歌曲歌手热度计算公式_ev.mp4  69.78M
+- |   |   ├──33：音乐数据中心项目_歌曲热度及歌手热度_歌曲热度统计01_ev.mp4  55.95M
+- |   |   ├──34：音乐数据中心项目_歌曲热度及歌手热度_歌曲热度统计02_ev.mp4  74.64M
+- |   |   ├──35：音乐数据中心项目_歌曲热度及歌手热度_歌手热度统计01_ev.mp4  50.67M
+- |   |   ├──36：音乐数据中心项目_歌曲热度及歌手热度_歌手热度统计02_ev.mp4  31.41M
+- |   |   ├──37：音乐数据中心项目_歌曲热度及歌手热度_Azkaban任务流调度环境准备_ev.mp4  48.20M
+- |   |   ├──38：音乐数据中心项目_歌曲热度及歌手热度_Azkaban任务流脚本准备01_ev.mp4  65.16M
+- |   |   ├──39：音乐数据中心项目_歌曲热度及歌手热度_Azkaban任务流脚本准备02_ev.mp4  53.09M
+- |   |   ├──40：音乐数据中心项目_歌曲热度及歌手热度_Azkaban任务流配置及任务流调度任务_ev.mp4  38.92M
+- |   |   ├──41：音乐数据中心项目_歌曲热度及歌手热度_Azkaban任务调度结果查看及SuperSet介绍_ev.mp4  57.24M
+- |   |   ├──42：音乐数据中心项目_SupersetBI可视化_Superset基于Linux安装_ev.mp4  93.11M
+- |   |   ├──43：音乐数据中心项目_SupersetBI可视化_Superset界面介绍及导入数据源及表_ev.mp4  31.41M
+- |   |   ├──44：音乐数据中心项目_SupersetBI可视化_Superset图表制作_ev.mp4  83.90M
+- |   |   ├──45：音乐数据中心项目_SupersetBI可视化_Superset柱状图制作_ev.mp4  48.53M
+- |   |   ├──46：音乐数据中心项目_SupersetBI可视化_Superset饼图及自定义页面制作_ev.mp4  21.23M
+- |   |   ├──47：音乐数据中心项目_SupersetBI可视化_Superset折线图制作_ev.mp4  63.45M
+- |   |   ├──48：音乐数据中心项目_歌曲热度及歌手热度_结果使用Superset可视化展示_ev.mp4  46.28M
+- |   |   ├──笔记.rar  4.55M
+- |   |   ├──代码.rar  209.29M
+- |   |   └──资料.rar  600.25M
+- |   ├──章节3：机器详细信息统计及日活跃用户统计  
+- |   |   ├──49：音乐数据中心项目_机器详细信息统计_需求及数据来源_ev.mp4  93.29M
+- |   |   ├──50：音乐数据中心项目_机器详细信息统计_需求分析_ev.mp4  22.93M
+- |   |   ├──51：音乐数据中心项目_机器详细信息统计_数仓分层ODS层设计_ev.mp4  49.59M
+- |   |   ├──52：音乐数据中心项目_机器详细信息统计_数仓分层EDS层及DM层设计_ev.mp4  69.90M
+- |   |   ├──53：音乐数据中心项目_机器详细信息统计_Sqoop导入mysql数据到ODS层01_ev.mp4  58.29M
+- |   |   ├──54：音乐数据中心项目_机器详细信息统计_Sqoop导入mysql数据到ODS层02_ev.mp4  68.00M
+- |   |   ├──55：音乐数据中心项目_机器详细信息统计_EDS层数据ETL01_ev.mp4  80.08M
+- |   |   ├──56：音乐数据中心项目_机器详细信息统计_EDS层数据ETL02_ev.mp4  87.32M
+- |   |   ├──57：音乐数据中心项目_机器详细信息统计_EDS层数据ETL03_ev.mp4  97.80M
+- |   |   ├──58：音乐数据中心项目_机器详细信息统计_Azkaban任务流自动调度01_ev.mp4  45.58M
+- |   |   ├──59：音乐数据中心项目_机器详细信息统计_Azkaban任务流自动调度02_ev.mp4  44.33M
+- |   |   ├──60：音乐数据中心项目_机器详细信息统计_报表使用Superset可视化展示_ev.mp4  47.38M
+- |   |   ├──61：音乐数据中心项目_用户画像7日活跃用户分析__需求及数据来源_ev.mp4  49.38M
+- |   |   ├──62：音乐数据中心项目_用户画像7日活跃用户分析__需求分析_ev.mp4  53.82M
+- |   |   ├──63：音乐数据中心项目_用户画像7日活跃用户分析__数据仓库ODS、EDS、DM分层设计_ev.mp4  62.37M
+- |   |   ├──64：音乐数据中心项目_用户画像7日活跃用户分析__Sqoop导入mysql数据到ODS层01_ev.mp4  74.26M
+- |   |   ├──65：音乐数据中心项目_用户画像7日活跃用户分析__Sqoop导入mysql数据到ODS层02_ev.mp4  96.53M
+- |   |   ├──66：音乐数据中心项目_用户画像7日活跃用户分析__业务处理数据分析_ev.mp4  41.52M
+- |   |   ├──67：音乐数据中心项目_用户画像7日活跃用户分析__EDS层数据ETL01_ev.mp4  37.15M
+- |   |   ├──68：音乐数据中心项目_用户画像7日活跃用户分析__EDS层数据ETL02_ev.mp4  69.36M
+- |   |   ├──69：音乐数据中心项目_用户画像7日活跃用户分析__Azkaban任务流自动调度01_ev.mp4  75.60M
+- |   |   ├──70：音乐数据中心项目_用户画像7日活跃用户分析__Azkaban任务流自动调度02_ev.mp4  64.87M
+- |   |   ├──71：音乐数据中心项目_用户画像7日活跃用户分析__Superset可视化展示数据_ev.mp4  30.76M
+- |   |   ├──笔记.rar  4.55M
+- |   |   ├──代码.rar  209.29M
+- |   |   ├──新建文本文档.txt  0.11kb
+- |   |   └──资料.rar  13.36M
+- |   ├──章节4：商户及地区营收统计  
+- |   |   ├──72：音乐数据中心项目_商户、地区营收统计__商户营收统计与地区营收统计需求_ev.mp4  33.19M
+- |   |   ├──73：音乐数据中心项目_商户营收统计__商户营收统计需求分析01_ev.mp4  59.77M
+- |   |   ├──74：音乐数据中心项目_商户营收统计__商户营收统计需求分析02_ev.mp4  51.06M
+- |   |   ├──75：音乐数据中心项目_商户营收统计__商户营收统计数仓分层设计01_ev.mp4  43.45M
+- |   |   ├──76：音乐数据中心项目_商户营收统计__商户营收统计数仓分层设计02_ev.mp4  64.35M
+- |   |   ├──77：音乐数据中心项目_商户营收统计__用户上报机器位置信息数据增量导入ODS层_ev.mp4  59.60M
+- |   |   ├──78：音乐数据中心项目_商户营收统计__用户上报机器位置信息业务分析01_ev.mp4  65.48M
+- |   |   ├──79：音乐数据中心项目_商户营收统计__用户上报机器位置信息业务分析之高德api使用02_ev.mp4  58.77M
+- |   |   ├──80：音乐数据中心项目_商户营收统计__用户上报机器位置信息业务分析之高德api使用03_ev.mp4  78.07M
+- |   |   ├──81：音乐数据中心项目_商户营收统计__用户上报机器位置信息业务ETL数据清洗获取EDS层数据01_ev.mp4  63.94M
+- |   |   ├──82：音乐数据中心项目_商户营收统计__用户上报机器位置信息业务ETL数据清洗获取EDS层数据02_ev.mp4  93.82M
+- |   |   ├──83：音乐数据中心项目_商户营收统计__机器消费订单明细数据增量导入ODS层_ev.mp4  43.79M
+- |   |   ├──84：音乐数据中心项目_商户营收统计__机器消费订单明细数据业务ETL数据清洗获取EDS层数据_ev.mp4  80.75M
+- |   |   ├──85：音乐数据中心项目_商户营收统计__机器日营收情况统计表业务分析01_ev.mp4  46.13M
+- |   |   ├──86：音乐数据中心项目_商户营收统计__机器日营收情况统计表业务分析02_ev.mp4  75.18M
+- |   |   ├──87：音乐数据中心项目_商户营收统计__机器日营收情况统计表ETL数据分析得到EDS层数据_ev.mp4  66.57M
+- |   |   ├──88：音乐数据中心项目_商户营收统计__机器日营收情况统计表ETL数据分析得到DM层结果数据_ev.mp4  65.07M
+- |   |   ├──89：音乐数据中心项目_地区营收统计__地区营收统计业务需求_ev.mp4  16.28M
+- |   |   ├──90：音乐数据中心项目_地区营收统计__地区营收统计获取DM层数据_ev.mp4  44.74M
+- |   |   ├──91：音乐数据中心项目_商户、地区营收统计__Azkaban任务调度环境准备_ev.mp4  52.39M
+- |   |   ├──92：音乐数据中心项目_商户、地区营收统计__Azkaban任务调度编写及执行01_ev.mp4  61.77M
+- |   |   ├──93：音乐数据中心项目_商户、地区营收统计__Azkaban任务调度编写及执行02_ev.mp4  47.27M
+- |   |   ├──94：音乐数据中心项目_商户、地区营收统计__使用Superset数据可视化展示结果_ev.mp4  55.26M
+- |   |   ├──笔记.rar  4.55M
+- |   |   ├──代码.rar  209.29M
+- |   |   └──资料.rar  13.36M
+- |   ├──章节5：实时业务统计  
+- |   |   ├──100：音乐数据中心项目_流式业务处理_日志采集接口部署到Linux中及Flume搭建配置_ev.mp4  71.72M
+- |   |   ├──101：音乐数据中心项目_流式业务处理_使用Flume采集接口日志到Kafka_ev.mp4  56.28M
+- |   |   ├──102：音乐数据中心项目_流式业务处理_实时统计pv&uv业务分析_ev.mp4  59.10M
+- |   |   ├──103：音乐数据中心项目_流式业务处理_实时统计pv&uv业务代码_ev.mp4  57.05M
+- |   |   ├──104：音乐数据中心项目_流式业务处理_实时统计pv&uv数据执行及结果查看_ev.mp4  88.92M
+- |   |   ├──105：音乐数据中心项目_流式业务处理_实时统计歌曲点播热榜业务分析_ev.mp4  45.62M
+- |   |   ├──106：音乐数据中心项目_流式业务处理_实时统计歌曲点播热榜业务数据准备_ev.mp4  38.52M
+- |   |   ├──107：音乐数据中心项目_流式业务处理_实时统计歌曲点播热榜业务代码及数据结果查看_ev.mp4  50.08M
+- |   |   ├──95：音乐数据中心项目_流式业务处理_流式业务介绍_ev.mp4  21.72M
+- |   |   ├──96：音乐数据中心项目_流式业务处理_日志采集接口设计Controller_ev.mp4  57.34M
+- |   |   ├──97：音乐数据中心项目_流式业务处理_日志采集接口设计Service_ev.mp4  61.30M
+- |   |   ├──98：音乐数据中心项目_流式业务处理_日志采集接口设计Log日志目录配置_ev.mp4  44.25M
+- |   |   ├──99：音乐数据中心项目_流式业务处理_日志采集接口设计Log日志采集测试_ev.mp4  42.43M
+- |   |   ├──笔记.rar  4.55M
+- |   |   ├──代码.rar  234.86M
+- |   |   ├──新建文本文档.txt  0.12kb
+- |   |   └──资料.rar  64.94M
+- |   └──章节6：Spark优化  
+- |   |   ├──1.txt  0.08kb
+- |   |   ├──108：Spark优化_资源优化设置_ev.mp4  33.91M
+- |   |   ├──109：Spark优化_并行度设置_ev.mp4  19.81M
+- |   |   ├──110：Spark优化_自定义分区器设置_ev.mp4  33.88M
+- |   |   ├──111：Spark优化_代码优化01_ev.mp4  48.64M
+- |   |   ├──112：Spark优化_代码优化02_ev.mp4  54.70M
+- |   |   ├──113：Spark优化_代码优化03_ev.mp4  31.05M
+- |   |   ├──114：Spark优化_代码优化04_ev.mp4  35.10M
+- |   |   ├──115：Spark优化_SparkShuffle优化及Spark内存优化_ev.mp4  32.74M
+- |   |   ├──116：Spark优化_Spark堆外内存优化_ev.mp4  25.80M
+- |   |   ├──117：Spark优化_Spark数据倾斜_ev.mp4  14.84M
+- |   |   ├──118：Spark优化_第一类方式解决Spark数据倾斜_ev.mp4  35.38M
+- |   |   ├──119：Spark优化_第二类方式解决Spark数据倾斜_ev.mp4  34.79M
+- |   |   ├──120：Spark优化_第三类方式解决Spark数据倾斜01_ev.mp4  69.67M
+- |   |   ├──121：Spark优化_第三类方式解决Spark数据倾斜案例分析_ev.mp4  46.45M
+- |   |   ├──122：Spark优化_第三类方式解决Spark数据倾斜02_ev.mp4  13.23M
+- |   |   ├──笔记.rar  629.81kb
+- |   |   ├──代码.rar  3.95kb
+- |   |   └──资料.rar  490.75kb
+- ├──17-python数据挖掘语言  
+- |   ├──章节10：模块和列表推导式  
+- |   |   ├──4代码.rar  2.81kb
+- |   |   ├──52：模块的使用以及安装_ev.mp4  31.41M
+- |   |   ├──53：模块制作_ev.mp4  31.81M
+- |   |   ├──54：python中的模块_ev.mp4  23.03M
+- |   |   └──55：列表推导式_ev.mp4  25.99M
+- |   ├──章节11：数据库操作  
+- |   |   ├──56：环境配置和pymysql安装_ev.mp4  20.84M
+- |   |   ├──57：创建数据库实例_ev.mp4  28.94M
+- |   |   ├──58：添加表_ev.mp4  37.10M
+- |   |   ├──59：添加数据_ev.mp4  75.27M
+- |   |   ├──60：修改数据_ev.mp4  22.53M
+- |   |   ├──61：删除数据_ev.mp4  16.06M
+- |   |   ├──62：查询数据_ev.mp4  19.25M
+- |   |   └──chapter11.rar  3.64kb
+- |   ├──章节12：Numpy  
+- |   |   ├──63：NumPy是什么_ev.mp4  3.82M
+- |   |   ├──64：为什么使用NumPy_ev.mp4  10.89M
+- |   |   ├──65：NumPy基础_ev.mp4  50.17M
+- |   |   ├──66：NumPy生成数组_ev.mp4  43.23M
+- |   |   ├──67：常用函数_ev.mp4  13.76M
+- |   |   ├──68：切片_ev.mp4  37.02M
+- |   |   └──python_basic.rar  38.39kb
+- |   ├──章节1：python概述  
+- |   |   ├──1资料  
+- |   |   ├──2笔记  
+- |   |   ├──4代码  
+- |   |   ├──1：介绍和历史_ev.mp4  30.10M
+- |   |   ├──2：关键点和优缺点_ev.mp4  24.04M
+- |   |   └──3：应用场景_ev.mp4  10.80M
+- |   ├──章节2：安装下载及基础语法  
+- |   |   ├──4：开发环境下载与安装_ev.mp4  54.08M
+- |   |   ├──5：入门案例注释乱码预防_ev.mp4  25.26M
+- |   |   ├──6：变量及类型_ev.mp4  56.60M
+- |   |   ├──7：标识符与输入输出_ev.mp4  45.71M
+- |   |   ├──8：运算符_ev.mp4  25.69M
+- |   |   └──chapter02.rar  1.56kb
+- |   ├──章节3：逻辑判断和循环  
+- |   |   ├──10：while循环结构_ev.mp4  35.68M
+- |   |   ├──11：for循环_ev.mp4  11.94M
+- |   |   ├──9：if分支结构_ev.mp4  16.32M
+- |   |   └──chapter03.rar  0.99kb
+- |   ├──章节4：集合类型  
+- |   |   ├──12：字符串基础_ev.mp4  20.96M
+- |   |   ├──13：字符串常用的方法_ev.mp4  81.48M
+- |   |   ├──14：列表list基础_ev.mp4  20.30M
+- |   |   ├──15：列表常用的方法_ev.mp4  61.07M
+- |   |   ├──16：元组的概述_ev.mp4  14.98M
+- |   |   ├──17：元组的常用的方法_ev.mp4  39.43M
+- |   |   ├──18：字典dict_ev.mp4  56.84M
+- |   |   ├──19：可变类型与不可变类型_ev.mp4  14.21M
+- |   |   └──chapter04.rar  4.35kb
+- |   ├──章节5：函数  
+- |   |   ├──20：函数介绍定义与调用参数一_ev.mp4  27.29M
+- |   |   ├──21：函数参数二_ev.mp4  40.38M
+- |   |   ├──22：函数返回值_ev.mp4  17.14M
+- |   |   ├──23：全局变量_ev.mp4  71.14M
+- |   |   ├──24：递归函数_ev.mp4  21.60M
+- |   |   ├──25：匿名函数_ev.mp4  24.32M
+- |   |   └──chapter05.rar  3.00kb
+- |   ├──章节6：文件操作  
+- |   |   ├──26：文件的打开与关闭_ev.mp4  52.38M
+- |   |   ├──27：文件写操作_ev.mp4  27.50M
+- |   |   ├──28：文件读操作_ev.mp4  28.62M
+- |   |   ├──29：文件随机读上_ev.mp4  28.76M
+- |   |   ├──30：文件随机读下_ev.mp4  13.25M
+- |   |   ├──31：文件的相关操作_ev.mp4  37.81M
+- |   |   └──chapter06.rar  2.74kb
+- |   ├──章节7：类和对象  
+- |   |   ├──1资料  
+- |   |   ├──4代码  
+- |   |   ├──32：类和对象概述_ev.mp4  25.42M
+- |   |   ├──33：类的定义与对象创建上_ev.mp4  21.27M
+- |   |   ├──34：类的定义与对象创建下_ev.mp4  20.75M
+- |   |   ├──35：__init__方法_ev.mp4  22.25M
+- |   |   ├──36：__new__方法_ev.mp4  60.29M
+- |   |   ├──37：__str__方法_ev.mp4  11.42M
+- |   |   ├──38：__del__方法_ev.mp4  46.11M
+- |   |   ├──39：保护对象属性--私有属性_ev.mp4  38.26M
+- |   |   ├──40：继承_ev.mp4  76.19M
+- |   |   ├──41：多继承_ev.mp4  25.86M
+- |   |   ├──42：重写_ev.mp4  25.23M
+- |   |   ├──43：多态_ev.mp4  25.60M
+- |   |   ├──44：类属性与实例属性_ev.mp4  45.61M
+- |   |   └──45：类方法和静态方法_ev.mp4  26.27M
+- |   ├──章节8：设计模式  
+- |   |   ├──46：单例设计模式_ev.mp4  43.21M
+- |   |   ├──47：工厂设计模式_ev.mp4  35.81M
+- |   |   └──chapter08.rar  1.11kb
+- |   └──章节9：异常  
+- |   |   ├──48：异常概述与捕获_ev.mp4  42.14M
+- |   |   ├──49：异常的传递_ev.mp4  56.82M
+- |   |   ├──50：自定义异常_ev.mp4  29.30M
+- |   |   ├──51：异常处理中抛出异常_ev.mp4  22.81M
+- |   |   └──chapter09.rar  2.48kb
+- ├──18-机器学习与数据挖掘  
+- |   ├──章节1：PySpark及线性回归算法  
+- |   |   ├──01-资料.rar  868.93kb
+- |   |   ├──03-笔记.rar  1.32M
+- |   |   ├──04-代码.rar  220.88M
+- |   |   ├──1：pyspark环境准备_ev.mp4  72.48M
+- |   |   ├──2：pysparkwordcount_ev.mp4  49.55M
+- |   |   ├──3：pvuv-code_ev.mp4  44.86M
+- |   |   ├──4：pvuv-code2_ev.mp4  86.30M
+- |   |   ├──5：线性回归算法_ev.mp4  121.65M
+- |   |   └──6：线性回归代码_ev.mp4  77.24M
+- |   ├──章节2：贝叶斯算法、KNN算法及KMeans算法  
+- |   |   ├──01-资料.rar  1.39M
+- |   |   ├──03-笔记.rar  1.50M
+- |   |   ├──04-代码.rar  1.68M
+- |   |   ├──10：KNN案例_ev.mp4  61.58M
+- |   |   ├──11：KNN数字案例_ev.mp4  60.31M
+- |   |   ├──12：KMeans算法_ev.mp4  64.32M
+- |   |   ├──13：KMeans案例_ev.mp4  113.03M
+- |   |   ├──7：复习+贝叶斯公式推导_ev.mp4  67.91M
+- |   |   ├──8：贝叶斯原理+垃圾邮件分类_ev.mp4  103.21M
+- |   |   └──9：KNN算法_ev.mp4  45.51M
+- |   ├──章节3：微博聚类、逻辑回归及音乐分类  
+- |   |   ├──01-资料.rar  2.31G
+- |   |   ├──03-笔记.rar  344.26kb
+- |   |   ├──04-代码.rar  212.19M
+- |   |   ├──14：复习_ev.mp4  81.51M
+- |   |   ├──15：TF-IDF_ev.mp4  82.34M
+- |   |   ├──16：微博聚类_ev.mp4  142.02M
+- |   |   ├──17：逻辑回归_ev.mp4  52.92M
+- |   |   ├──18：音乐分类案例_ev.mp4  86.00M
+- |   |   └──19：道路预测原理_ev.mp4  75.06M
+- |   ├──章节4：道路预测及逻辑回归优化  
+- |   |   ├──01-资料.rar  1.24M
+- |   |   ├──03-笔记.rar  1.37M
+- |   |   ├──04-代码.rar  88.50kb
+- |   |   ├──20：道路预测模拟数据_ev.mp4  95.29M
+- |   |   ├──21：道路预测模型训练+使用_ev.mp4  103.10M
+- |   |   ├──22：求导公式_ev.mp4  34.17M
+- |   |   ├──23：逻辑回归损失函数推导_ev.mp4  71.92M
+- |   |   ├──24：逻辑回归损失函数推导02_ev.mp4  82.19M
+- |   |   ├──25：逻辑回归调优01_ev.mp4  79.66M
+- |   |   ├──26：逻辑回归复习_ev.mp4  61.11M
+- |   |   ├──27：逻辑回归优化_ev.mp4  114.60M
+- |   |   ├──28：混淆矩阵+ROC&AUC_ev.mp4  41.30M
+- |   |   └──29：ROC+AUC_ev.mp4  66.44M
+- |   └──章节5：决策树、随机森林算法  
+- |   |   ├──30：决策树介绍_ev.mp4  38.24M
+- |   |   ├──31：决策树01_ev.mp4  65.28M
+- |   |   └──32：决策树02_ev.mp4  85.07M
+- ├──19-推荐系统项目  
+- |   ├──章节1：推荐系统架构原理  
+- |   |   ├──10：推荐系统_App推荐系统架构_ev.mp4  57.98M
+- |   |   ├──1：推荐系统_推荐系统介绍_ev.mp4  29.68M
+- |   |   ├──2：推荐系统_基于用户的协同过滤思想_ev.mp4  31.06M
+- |   |   ├──3：推荐系统_基于商品的协同过滤思想_ev.mp4  60.45M
+- |   |   ├──4：推荐系统_基于用户及基于商品协同过滤思想总结_ev.mp4  14.32M
+- |   |   ├──5：推荐系统_App推荐系统原理01_ev.mp4  80.98M
+- |   |   ├──6：推荐系统_App推荐系统原理02_ev.mp4  42.99M
+- |   |   ├──7：推荐系统_App推荐案例计算分析_ev.mp4  31.41M
+- |   |   ├──8：推荐系统_推荐系统中冷启动问题_ev.mp4  69.75M
+- |   |   ├──9：推荐系统_推荐系统lambda架构_ev.mp4  24.39M
+- |   |   ├──笔记.rar  688.07kb
+- |   |   └──资料.rar  3.97M
+- |   └──章节2：推荐系统流程实现  
+- |   |   ├──11：推荐系统_三种表数据模拟_ev.mp4  72.70M
+- |   |   ├──12：推荐系统_Hive创建对应表及数据加载_ev.mp4  79.32M
+- |   |   ├──13：推荐系统_Hive数据表ETL预处理获取数据中间表01_ev.mp4  68.70M
+- |   |   ├──14：推荐系统_Hive数据表ETL预处理获取数据中间表02_ev.mp4  54.85M
+- |   |   ├──15：推荐系统_Hive模型特征表获取分析_ev.mp4  28.04M
+- |   |   ├──16：推荐系统_python处理Hive数据文件代码编写_ev.mp4  67.41M
+- |   |   ├──17：推荐系统_python处理Hive表数据及数据导出_ev.mp4  60.94M
+- |   |   ├──18：推荐系统_特征工程获取训练集全量特征_ev.mp4  94.56M
+- |   |   ├──19：推荐系统_特征工程&训练模型获取模型文件_ev.mp4  44.17M
+- |   |   ├──20：推荐系统_推荐服务_数据准备_ev.mp4  57.88M
+- |   |   ├──21：推荐系统_推荐服务_推荐服务介绍_ev.mp4  16.73M
+- |   |   ├──22：推荐系统_推荐服务_dubbo-provider端介绍_ev.mp4  74.25M
+- |   |   ├──23：推荐系统_推荐服务_dubbo-consumer端介绍_ev.mp4  21.36M
+- |   |   ├──24：推荐系统_推荐服务_推荐服务代码_ev.mp4  45.50M
+- |   |   ├──笔记.rar  688.49kb
+- |   |   ├──代码.rar  2.09M
+- |   |   └──资料.rar  213.91kb
+- ├──20-Flink实时计算引擎  
+- |   ├──章节10：Flink性能优化  
+- |   |   ├──91：Flink性能优化之CheckPoint页面监控_ev.mp4  20.15M
+- |   |   ├──92：Flink性能优化之Flink内存优化_ev.mp4  33.10M
+- |   |   ├──93：Flink性能优化之网络缓存优化和复习总结_ev.mp4  35.54M
+- |   |   ├──代码.rar  96.28M
+- |   |   ├──课堂笔记.rar  4.05M
+- |   |   └──下载资料.rar  279.05M
+- |   ├──章节11：附录：常见面试题汇总讲解  
+- |   |   ├──94：Flink常见的面试题汇总讲解(1)_ev.mp4  42.60M
+- |   |   └──95：Flink常见的面试题汇总讲解(2)_ev.mp4  33.04M
+- |   ├──章节1：初识Flink  
+- |   |   ├──1：初识Flink之Flink的定义_ev.mp4  53.67M
+- |   |   ├──2：初识Flink之Flink的有状态计算_ev.mp4  11.67M
+- |   |   ├──3：初识Flink之Flink的用户和使用场景_ev.mp4  40.91M
+- |   |   ├──4：初识Flink之Flink的特点和优势_ev.mp4  27.60M
+- |   |   ├──5：初识Flink之Flink和其他计算框架的对比_ev.mp4  32.55M
+- |   |   ├──6：初识Flink之复习总结_ev.mp4  17.57M
+- |   |   ├──代码.rar  96.28M
+- |   |   ├──课堂笔记.rar  4.05M
+- |   |   └──下载资料.rar  279.05M
+- |   ├──章节2：Flink快速入门  
+- |   |   ├──7：Flink快速入门之开发环境_ev.mp4  42.62M
+- |   |   ├──8：Flink快速入门之流计算的WordCount_ev.mp4  76.02M
+- |   |   ├──9：Flink快速入门之批计算的WordCount案例_ev.mp4  39.79M
+- |   |   ├──代码.rar  96.28M
+- |   |   ├──课堂笔记.rar  4.05M
+- |   |   └──下载资料.rar  279.05M
+- |   ├──章节3：Flink的安装和部署  
+- |   |   ├──10：Flink的安装和部署之集群基本架构_ev.mp4  32.99M
+- |   |   ├──11：Flink的安装和部署之节点介绍_ev.mp4  34.29M
+- |   |   ├──12：Flink的安装和部署之Standalone机器安装和提交Job_ev.mp4  68.24M
+- |   |   ├──13：Flink的安装和部署之Flink并行度和Slot_ev.mp4  77.91M
+- |   |   ├──14：Flink的安装和部署之集Flink提交到Yarn流程图_ev.mp4  22.79M
+- |   |   ├──15：Flink的安装和部署之Flink提交到Yarn的两种模式_ev.mp4  18.80M
+- |   |   ├──16：Flink的安装和部署之Flink提交到Yarn的第一种模式_ev.mp4  99.08M
+- |   |   ├──17：Flink的按照和部署之Flink提交到Yarn的第二种模式_ev.mp4  24.00M
+- |   |   ├──18：Flink的按照和部署之Flink提交到Yarn的HA_ev.mp4  34.61M
+- |   |   ├──代码.rar  96.28M
+- |   |   ├──课堂笔记.rar  4.05M
+- |   |   └──下载资料.rar  278.93M
+- |   ├──章节4：Flink的常用API详解  
+- |   |   ├──19：Flink常用API之DataStream的编程模型_ev.mp4  28.33M
+- |   |   ├──20：Flink常用API之HDFS文件Source_ev.mp4  26.42M
+- |   |   ├──21：Flink常用API之Collection的Source_ev.mp4  30.11M
+- |   |   ├──22：Flink常用API之Kafka的Source第一种_ev.mp4  56.09M
+- |   |   ├──23：Flink常用API之Kafka的Source第二种_ev.mp4  55.43M
+- |   |   ├──24：Flink常用API之自定义的Source_ev.mp4  50.42M
+- |   |   ├──25：Flink常用API之HDFS的Sink_ev.mp4  63.52M
+- |   |   ├──26：Flink常用API之Redis的Sink_ev.mp4  61.38M
+- |   |   ├──27：Flink常用API之Kafka的Sink第一种_ev.mp4  35.09M
+- |   |   ├──28：Flink常用API之Kafka的Sink第二种(1)_ev.mp4  61.43M
+- |   |   ├──29：Flink常用API之Kafka的Sink第二种(2)_ev.mp4  22.34M
+- |   |   ├──30：Flink常用API之自定义的Sink_ev.mp4  54.89M
+- |   |   ├──31：Flink常用API之转换算子的Map和FlatMap算子_ev.mp4  26.94M
+- |   |   ├──32：Flink常用API之转换算子的Filter到聚合算子_ev.mp4  60.34M
+- |   |   ├──33：Flink常用API之转换算子的Union算子_ev.mp4  22.69M
+- |   |   ├──34：Flink常用API之转换算子的Connect算子_ev.mp4  33.44M
+- |   |   ├──35：Flink常用API之转换算子的Split算子_ev.mp4  58.54M
+- |   |   ├──36：Flink常用API之转换算子的函数类(1)_ev.mp4  13.31M
+- |   |   ├──37：Flink常用API之转换算子的函数类(2)_ev.mp4  52.77M
+- |   |   ├──38：Flink常用API之转换算子的富函数类_ev.mp4  60.67M
+- |   |   ├──39：Flink常用API之转换算子的底层ProcessFunction(1)_ev.mp4  46.83M
+- |   |   ├──40：Flink常用API之转换算子的底层ProcessFunction(2)_ev.mp4  68.99M
+- |   |   ├──41：Flink常用API之转换算子的侧输出流_ev.mp4  45.49M
+- |   |   ├──42：Flink常用API复习总结_ev.mp4  39.42M
+- |   |   ├──代码.rar  96.28M
+- |   |   ├──课堂笔记.rar  4.05M
+- |   |   └──下载资料.rar  279.05M
+- |   ├──章节5：Flink的State管理与恢复  
+- |   |   ├──43：Flink中State管理与恢复之常用State分类_ev.mp4  32.18M
+- |   |   ├──44：Flink中State管理与恢复之键控状态案例1_ev.mp4  50.96M
+- |   |   ├──45：Flink中State管理与恢复之键控状态案例2_ev.mp4  58.25M
+- |   |   ├──46：Flink中State管理与恢复之CheckPoint原理1_ev.mp4  44.54M
+- |   |   ├──47：Flink中State管理与恢复之CheckPoint原理2_ev.mp4  33.16M
+- |   |   ├──48：Flink中State管理与恢复之CheckPoint的参数设置_ev.mp4  28.86M
+- |   |   ├──49：Flink中State管理与恢复之状态后端Backend_ev.mp4  35.47M
+- |   |   ├──50：Flink中State管理与恢复之状态后端Backend案例(1)_ev.mp4  44.89M
+- |   |   ├──51：Flink中State管理与恢复之状态后端Backend案例(2)_ev.mp4  43.81M
+- |   |   ├──52：Flink中State管理与恢复之Savepint案例_ev.mp4  87.96M
+- |   |   ├──53：Flink中State管理与恢复复习总结_ev.mp4  29.95M
+- |   |   ├──代码.rar  96.28M
+- |   |   ├──课堂笔记.rar  4.05M
+- |   |   └──下载资料.rar  279.05M
+- |   ├──章节6：Flink的Window(窗口)详解  
+- |   |   ├──54：Flink中Window详解之Window分类_ev.mp4  44.27M
+- |   |   ├──55：Flink中Window详解之Window的API_ev.mp4  40.68M
+- |   |   ├──56：Flink中Window详解之Window的聚合函数(1)_ev.mp4  63.49M
+- |   |   ├──57：Flink中Window详解之Window的聚合函数(2)_ev.mp4  62.79M
+- |   |   ├──58：Flink中Window详解之Window的聚合函数(3)_ev.mp4  43.76M
+- |   |   ├──59：Flink中Window详解复习总结_ev.mp4  27.35M
+- |   |   ├──代码.rar  96.28M
+- |   |   ├──课堂笔记.rar  4.05M
+- |   |   └──下载资料.rar  279.05M
+- |   ├──章节7：Flink的Time详解  
+- |   |   ├──60：Flink的Time详解之时间语义Time介绍_ev.mp4  31.51M
+- |   |   ├──61：Flink的Time详解之Watermark原理(1)_ev.mp4  48.09M
+- |   |   ├──62：Flink的Time详解之Watermark原理(2)_ev.mp4  34.41M
+- |   |   ├──63：Flink的Time详解之Watermark原理(3)_ev.mp4  25.41M
+- |   |   ├──64：Flink的Time详解之引入Watermark和EventTime_ev.mp4  53.43M
+- |   |   ├──65：Flink的Time详解之Watermark的案例(有序数据流1)_ev.mp4  80.41M
+- |   |   ├──66：Flink的Time详解之Watermark的案例(有序数据流2)_ev.mp4  40.71M
+- |   |   ├──67：Flink的Time详解之Watermark的案例(乱序数据流1)_ev.mp4  53.95M
+- |   |   ├──68：Flink的Time详解之Watermark的案例(乱序数据流2)_ev.mp4  45.48M
+- |   |   ├──69：Flink的Time详解之AllowedLateness理论_ev.mp4  19.76M
+- |   |   ├──70：Flink的Time详解之AllowedLateness案例(1)_ev.mp4  66.42M
+- |   |   ├──71：Flink的Time详解之AllowedLateness案例(2)_ev.mp4  41.88M
+- |   |   ├──72：Flink的Time详解之复习总结_ev.mp4  21.45M
+- |   |   ├──代码.rar  96.28M
+- |   |   ├──课堂笔记.rar  4.05M
+- |   |   └──下载资料.rar  279.05M
+- |   ├──章节8：TableAPI和Flink的SQL  
+- |   |   ├──73：TableAPI和SQL之新版本介绍_ev.mp4  17.40M
+- |   |   ├──74：TableAPI和SQL之创建TableEnvironment_ev.mp4  48.15M
+- |   |   ├──75：TableAPI和SQL之创建Table(1)_ev.mp4  36.45M
+- |   |   ├──76：TableAPI和SQL之创建Table(2)_ev.mp4  30.22M
+- |   |   ├──77：TableAPI和SQL之修改字段和过滤查询_ev.mp4  48.46M
+- |   |   ├──78：TableAPI和SQL之分组聚合和UDF_ev.mp4  71.59M
+- |   |   ├──79：TableAPI和SQL之Window和时间语义(1)_ev.mp4  49.93M
+- |   |   ├──80：TableAPI和SQL之Window和时间语义(2)_ev.mp4  52.94M
+- |   |   ├──81：TableAPI和SQL之SQL语句执行1_ev.mp4  56.58M
+- |   |   ├──82：TableAPI和SQL之SQL语句滚动Window的写法_ev.mp4  40.98M
+- |   |   ├──83：TableAPI和SQL之SQL语句滑动Window的写法_ev.mp4  35.39M
+- |   |   ├──84：TableAPI和SQL复习总结_ev.mp4  42.08M
+- |   |   ├──代码.rar  96.28M
+- |   |   ├──课堂笔记.rar  4.05M
+- |   |   └──下载资料.rar  278.93M
+- |   └──章节9：Flink的复杂事件处理CEP编程  
+- |   |   ├──85：Flink的CEP编程之CEP的相关概念_ev.mp4  16.02M
+- |   |   ├──86：Flink的CEP编程之Pattern定义_ev.mp4  50.61M
+- |   |   ├──87：Flink的CEP编程之Pattern检测和选择结果_ev.mp4  23.51M
+- |   |   ├──88：Flink的CEP编程之CEP案例(1)_ev.mp4  47.90M
+- |   |   ├──89：Flink的CEP编程之CEP案例(2)_ev.mp4  32.98M
+- |   |   ├──90：Flink的CEP编程之复习总结_ev.mp4  26.69M
+- |   |   ├──代码.rar  96.28M
+- |   |   ├──课堂笔记.rar  4.05M
+- |   |   └──下载资料.rar  278.93M
+- ├──21-Flink城市交通实时监控平台  
+- |   ├──章节1：实时卡扣监控  
+- |   |   ├──1：Flink交通项目_项目介绍及数据来源_ev.mp4  116.77M
+- |   |   ├──2：Flink道路监控_实时监控超速车辆信息_ev.mp4  97.39M
+- |   |   ├──3：Flink道路监控_实时监控超速车辆信息代码实现_ev.mp4  110.25M
+- |   |   ├──4：Flink道路监控_实时监控卡扣平均速度信息_ev.mp4  115.52M
+- |   |   ├──5：Flink道路监控_实时监控最通畅的topN卡扣信息_ev.mp4  135.83M
+- |   |   ├──6：Flink道路监控_实时监控套牌车辆信息_ev.mp4  88.34M
+- |   |   ├──7：Flink道路监控_实时监控危险驾驶信息_ev.mp4  120.64M
+- |   |   ├──8：Flink道路监控_实时监控违法车辆出警信息_ev.mp4  101.65M
+- |   |   ├──9：Flink道路监控_实时监控违法车辆出警信息02_ev.mp4  92.17M
+- |   |   ├──笔记.rar  936.69kb
+- |   |   ├──代码.rar  3.41M
+- |   |   └──资料.rar  9.33M
+- |   ├──章节2：违法车辆预警  
+- |   |   ├──10：Flink道路监控_违法车辆轨迹分析_ev.mp4  69.90M
+- |   |   ├──11：Flink道路监控_违法车辆轨迹分析结果存储HBase_ev.mp4  54.30M
+- |   |   ├──12：Flink道路监控_违法车辆轨迹分析结果存储HBase批量操作_ev.mp4  58.25M
+- |   |   ├──13：Flink道路监控_实时统计区域车辆数-布隆过滤器_ev.mp4  86.37M
+- |   |   ├──14：Flink道路监控_布隆过滤器统计本地车统计_ev.mp4  78.25M
+- |   |   ├──笔记.rar  936.69kb
+- |   |   ├──代码.rar  3.41M
+- |   |   └──资料.rar  9.33M
+- |   ├──章节3：实时城市交通违法预警  
+- |   |   ├──15：套牌车分析需求和代码1_ev.mp4  40.48M
+- |   |   ├──16：套牌车分析代码2和测试1_ev.mp4  45.24M
+- |   |   ├──17：套牌车分析代码2和测试2_ev.mp4  68.53M
+- |   |   ├──18：危险驾驶车辆分析需求_ev.mp4  16.72M
+- |   |   ├──19：危险驾驶车辆代码实现1_ev.mp4  77.59M
+- |   |   ├──20：危险驾驶车辆代码实现2_ev.mp4  51.30M
+- |   |   ├──21：危险驾驶车辆分析代码测试_ev.mp4  38.30M
+- |   |   ├──22：交警出警记录和违法车辆连接计算1_ev.mp4  30.81M
+- |   |   ├──23：交警出警记录和违法车辆连接计算2_ev.mp4  46.82M
+- |   |   └──24：交警出警记录和违法车辆连接计算3_ev.mp4  135.69M
+- |   └──章节4：车辆实时分布  
+- |   |   ├──25：实时车辆布控分析业务和Set去重代码_ev.mp4  67.90M
+- |   |   ├──26：布隆过滤器原理_ev.mp4  95.05M
+- |   |   ├──27：布隆过滤器的代码1_ev.mp4  72.64M
+- |   |   ├──28：布隆过滤器的代码2_ev.mp4  111.31M
+- |   |   ├──29：布隆过滤器实现车辆去重的代码3_ev.mp4  101.76M
+- |   |   ├──30：布隆过滤器的优化_ev.mp4  79.00M
+- |   |   └──31：布隆过滤器优化之后的测试_ev.mp4  63.14M
+- ├──22-大数据面试题精讲  
+- |   └──22-大数据面试题精讲.7z  981.89M
+- ├──23-面试和成功求职的秘技  
+- |   └──23-面试和成功求职的秘技.7z  557.46M
+- └──24-入职后快速成长到CTO  
+- |   ├──章节1：入职后三个月试用期要做的事  
+- |   |   ├──1.txt  0.15kb
+- |   |   ├──1：三法宝，处理同事关系_ev.mp4  20.58M
+- |   |   ├──2：核心两点，处理好领导关系_ev.mp4  12.65M
+- |   |   ├──3：每件事都是学习的机会_ev.mp4  19.69M
+- |   |   ├──4：主动加班，试用期加班是学习的好机会_ev.mp4  13.29M
+- |   |   ├──5：未通过试用期，如何应对？_ev.mp4  24.60M
+- |   |   └──PPT.rar  4.69M
+- |   ├──章节2：前三年需要学的技术  
+- |   |   ├──10：工作中，快速学习新技术的最佳方式（重要的是形成体系，而不是钻到某个技术点）_ev.mp4  8.60M
+- |   |   ├──6：工作后，千万不要停止学习_ev.mp4  12.73M
+- |   |   ├──7：项目经验如何累积？_ev.mp4  14.72M
+- |   |   ├──8：JAVA高级技术还需要学习哪些？_ev.mp4  22.21M
+- |   |   └──9：架构师课程如何学习？_ev.mp4  18.98M
+- |   └──章节3：前三年需要提高的软实力  
+- |   |   ├──11：软实力是真实力_ev.mp4  25.41M
+- |   |   ├──12：软实力的七要素，7A软实力理论_ev.mp4  18.05M
+- |   |   ├──13：好的沟通有方法_ev.mp4  14.43M
+- |   |   ├──14：快速说服别人的技巧_ev.mp4  20.66M
+- |   |   ├──15：口才也能练出来_ev.mp4  16.67M
+- |   |   ├──16：领导力如何自我修炼_ev.mp4  18.48M
+- |   |   ├──17：会议发言的三要素_ev.mp4  18.13M
+- |   |   ├──18：酒宴祝词、会议发言的完美公式_ev.mp4  11.03M
+- |   |   ├──19：五点职场礼仪，让你秒变职场受欢迎人士_ev.mp4  19.63M
+- |   |   └──20：软实力是最容易让你脱颖而出的关键_ev.mp4  14.35M
+- 
